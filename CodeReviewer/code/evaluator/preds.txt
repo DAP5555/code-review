@@ -1,0 +1,1685 @@
+The tolist () can go away.
+Wouldn't a hashset be enough here?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't we be checking if table is null here?
+IREADONLYLIST <> or IREADONLYLIST?
+Shouldn't the interface be renamed as well?
+I don't understand what you are trying to do here.I don't understand what you are trying to do here.I don't understand what you are trying to do here.
+see above
+Shouldn't the batch job be executed if no roles are found?The batch job should only be executed if no roles are found.The batch job should be executed if no roles are found.
+Shouldn't that be in the batch job?
+** ❓Questation (non-blocking): ** What happens if the field has no street key?I don't know if that's the case. ** ❓Questation (non-blocking): ** What happens if the field has no street key?
+IREADONLYLIST <>?
+IREADONLYLIST <> completed
+Shouldn't that be "consumer" instead of "customizing"?
+** 🪶 Typo (non-blocking): ** Summary?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Isn't the Canexecute.canalwaysexecute enough?
+overlaySource = null;
+IlovionvectoriconwithFileInfo vectoriconwithFileInfo.FileInfo.exists
+** 🪶 Typo (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (non-blocking): ** missing ** ❗ suggestion (
+tempUpdateTargetFolderPath needs to be set before StartUpdateScript
+If the file is not a network path and the path does not end with the zip extension, this will not work.
+I would also log the last write time of the file in the debug log.
+** ❓questation (non-blocking): ** What does that mean?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Why is this commented on?
+I don't understand what you are trying to do here.Why is the method called "trygetcontractandoperationFromPath"?The name of the method is "trygetcontractandoperationFromPath".The name of the method is "trygetcontractandoperationFromPath".
+Wcfhelper.TryGetContractAndOperationFromPath(context.Request.Path, out var contractAndOperation)
+Shouldn't this be 1.16.0?
+_WcfHelper._WcfHelper
+Shouldn't this be added to the `WithMetrics` call above?
+I think this should be moved to the top of the class.
+Remove the UNICODE CHAR here
+Wouldn't it be enough to check whether the file name is null or whitespace?
+Shouldn't this be changed to pathvalue must not be null or whitespace?
+** ❗ suggestion (non-blocking): ** The name of the parameter must not be null.
+```suggestion private static readonly ILogger LogManager = LogManager.GetLogger(typeof(FileCopier).Namespace); ```
+StringComparer.OrdinalIgnoreCase
+** 🪶 Typo (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary
+readonly Lovion.DataTypes.IFileInfo _KestrelConfiguration;
+** 🪶 Typo (non-blocking): ** KestrelConfiguration?
+** 🪶 Typo (non-blocking): ** Summary?
+Shouldn't the provider be checked here whether there is a message board?
+S.O. S.O.
+Typo: Canexecuted
+** 🪶 Typo (non-blocking): ** private const string ATTR_CONFIG_BRANDING = "ConfigBranding";
+Doesn't it have to be checked whether there are any files in the source directory?Otherwise the Brand () throws an exception.
+If the resource does not exist in the Lovion application settings, does not exist in the application config.If the resource does not exist in the application config, does not exist in the Lovion application settings.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Here too: "lovion.arcnetaccess"
+Shouldn't that be "info@lovion.de" or "info@lovion.de"?
+Shouldn't that be "not" instead of "not"?
+** ❗ suggestion (non-blocking): ** Summary? Completed.
+The dependecyAndAttributeList variable is not used.
+PlugIn Ref = "LovionunifiedMail"
+RwoTemplateVisualizationFeaturePlugin.Logger.Error(Resources.ErrorcouldnotPaste, rtEx);
+S.O. S.O.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't that be in the project file?
+Typo: Compromised => Compromised
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+I18n I18n I18n
+[NITPICK]: The interface is not used.
+** 🪶 Typo (non-blocking): ** Summary
+Comments are missing Added
+IWorkflowObjectWithTransitions
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+I would have done it like this:  return typeattr.inheritsfrom (WorkflowConsents.AndGatewayType.TAG) || OrGateway.FromXml(gatewayElement, workflow);
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary
+** 🪶 Typo (non-blocking): ** Summary Completed.
+** 🪶 Typo (non-blocking): ** Summary completed
+I don't understand what you are trying to do here.Can you explain what you are trying to do here?
+** 🪶 Typo (non-blocking): ** Summary?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+I would have done it like this:  `` Charp if (input.from is BaseGateway gw && !gw.CanProceed(rwo, out var output)) { result = false; } else if (input.From is BaseGateway gw && !gw.CanProceed(rwo, out var output)) { result = false; } else if (input.From is BaseGateway gw && !gw.CanProceed(rwo, out var output)) { result = false; } else if (input.From is BaseGateway gw && !gw.CanProceed(rwo, out
+I don't understand what you are trying to do here.Can you explain what you are trying to do here?
+** ❓Questation (non-blocking): ** Isn't the partner gateway already checked whether it can proceed?Otherwise there is a zero reference exception.
+** ❓Questation (non-blocking): ** Why do you need to create a new lock for the entire life of the transition?Isn't the lock enough for the entire life of the transition? ** ❓Questation (non-blocking): ** Isn't the lock enough for the entire life of the transition?
+** 🪶 Typo (non-blocking): ** Summary?
+In my opinion, the lock is not necessary here.In my opinion, the lock is not necessary here.
+Shouldn't this be textbox.NormalBackground = (Brush)e.NewValue;?
+_NormalBorderBrush = _Border?.BorderBrush;
+Shouldn't that be "StwbaconsumerCustomizing"?
+_World manager can also be zero here.
+Why did you remove this?
+TestCategory(Testhelper.TEST_CATEGORY_DEFAULT)
+Why is this included here but not in the other places?
+IobjectLocatorGroup instead of IObjectLocatorGroup
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't this be 10 and not 0?
+** ❗ suggestion (non-blocking): ** Do we need the `_OverlayPresenter == Presenter` check?
+** 🪶 Typo (non-blocking): ** Summary Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Completed.
+** 🪶 Typo (non-blocking): ** Summary?
+Multiselectionmode Multiselectionmode {get;}
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+FlatScrollViewer MaxHeight="200"
+_SettingsReaderWriter can be zero at this point?
+nit: ```suggestion } else { Parent = null; } ```
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** ❗ suggestion (non-blocking): ** String processing verwen ** ❗ suggestion (non-blocking): ** String processing verwen
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't this be placed under `<UserControl.Resources>`?
+Doesn't that have to be checked whether the RWotype is inherit from the given RWotype?Otherwise there is a zero reference exception.
+Debug: Konfiguration erzeugen
+Debug: Generate configuration
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+Does that have to be here?
+Why are the extra directories needed?
+Why are the extra directories removed?
+Typo: Closed
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+Doesn't it have to be logged at the beginning of the app? Yes, it is logged at the start of the app.
+Isn't the Lovion.libraries.webserver.grpc.serverinfo.canalwaysexecute?Or is the Lovion.libraries.webserver.grpc.serverinfo.canexecute.canalwaysexecute enough?Or is the Lovion.libraries.webserver.grpc.serverinfo.canexecute.canalwaysexecute enough?
+** ❗ suggestion (non-blocking): ** String name = 1;bytes hash = 2; ** ❗ suggestion (non-blocking): ** String hash = 2;
+** 🪶 Typo (non-blocking): ** Summary?
+```suggestion response.OAuthConfiguration = new OAuthConfigurationGRPC(); ```
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** ❗ suggestion (non-blocking): ** IREADONLYLIST completed completed
+```suggestion yield return new Problem(project, this, "Upgrade files outside expected directory ({upgradeFilesCount})", true, ```
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** ComponentParentPresenter => ComponentParentPresenter
+IREADONLYLIST <>?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+StringComparer.ordinal
+Why is the region and repository set to empty at this point?Shouldn't the region and repository be set to zero at this point?
+IREADONLYLIST <JoinTableConfiguration> JoinTableConfigurations => _joinTableConfigurations
+** ❗ suggestion (non-blocking): ** `` Charp if (databasevalue is double || databaseValue is int16 || databaseValue is UInt16 || databaseValue is Int32 || databaseValue is UInt32 || databaseValue is Int64 || databaseValue is UInt64) { return csvValue == Convert.ToDouble(databaseValue); return false; }  `` `
+String.Format (CultureInfo.InvariantCulture, "Unknown generic data type {0}", type)
+Why is this changed to var?
+Nit: var => whatever type it is
+Nit: var => whatever type it is
+** ❗ suggestion (non-blocking): ** `` Charp public IList<ColumnDefinition> Columns { get; } `` `
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+LoadTable and LoadTable are called Locatorjob.LoadTable and Locatorjob.LoadTable.
+A comment would be nice here.
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** ❗ suggestion (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary
+Shouldn't you be able to delete a table that is not in the list?
+Comment on public class and methods Done
+"owning rwotype" instead of "owning rwofield"
+IREADONLYSET <string>?
+I think it would be better to use a hashset instead of a list of IDs.
+IREADONLYSET <string> or IREADONLYLIST <string>
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** ❗ suggestion (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't that be in the CTOR?
+Shouldn't we throw an exception here?Or at least log the exception?
+Shouldn't that be called "LoadDatabase"?
+Typo: TablesLoader -> Tables
+StringComparer.ordinal
+Shouldn't it be enough to check the exception message and exit immediately if it is not null or empty?
+** ❓Questation (non-blocking): ** Isn't that the case that the RWO is not in the list?I would have thought that the RWO was not in the list.
+FindIndex can return an empty list if there are no matches.
+systemrwotype? .Elements (XML_ELEMENT_FEATURE)?.Where (x => x.Attribute(XML_ATTR_PROVIDER_ID).Value == rwoType.Name);
+Shouldn't that be "1.1"?
+Why did you remove this?
+The parameter "Ienumerable<string> ids" to "string[] ids" does not make sense here.
+@jasonmalinowski are you familiar with this code?
+Private is missing
+readonly
+private readonly MyIndexedProvider indexProvider;
+Wouldn't it be better to create the SQLiteConnection object first and then close it?
+readonly
+World.OurWorld instead of World.OurWorld?
+Borderthickness="0"
+Grid.Column="5"
+DependencyProperty is read-only
+Why is this removed?
+Why is this public?
+** ❓Questation (non-blocking): ** Children.count > 0?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+Shouldn't this be changed to `context.OutgoingResponse.Headers[HEADER_CACHE_CONTROL] = HEADER_CACHE_CONTROL_VALUE_NOCACHING;`?
+(sourcefile, targetFile) = (sourcefile, sourceFile)
+Wouldn't it be better to use `fieldPriorityX.HasValue && fieldPriorityY.HasValue`?
+Shouldn't the value come from the datareader.getstring (1)?
+Shouldn't that be "Lovion CMIS CONNECT.lvndm"?
+s.o.
+Wouldn't it be better to use a hashset of the RWotypes with the provider ID instead of the RWotypes.first ()?
+Hash does not exist => Hash does not exist => Hash does not exist => Hash does not exist
+Shouldn't this be called "CheckFile"?
+Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred Typo: Occurred
+Typo: SWHULovionInsertActivation
+** 🪶 Typo (non-blocking): ** Summary Completed.
+Shouldn't it be _helper.removefile (file); ?
+Can't you take the lock outside of the TryGetValue?
+Shouldn't it be _helper.removefile (file); ?
+typo: "configured" -> "configured"
+We should probably throw a more detailed exception here.
+Licenseelement.attribute (LICENSE_ATTR_IS_VERSION_INDEDEPENDENT)?
+Isn't the pattern "([0-9]+).([0-9]+).([0-9]+)" enough?
+Shouldn't this be "Lovion Version"?
+Shouldn't this be 10 and not 10?
+Shouldn't that be "Lovion-Version" instead of "6"?
+Shouldn't this be Server=MSSQL01.its-group.local\MSSQL2019?
+Shouldn't this be called "Lovion Version"?
+SR7.1.1 SR8
+nit: newline at the end of file
+S.O. S.O.
+Shouldn't that be "Geoconnect"?
+Shouldn't that be "SWIDocuments"?
+I would have done it like this:  if (provider.rwotypes.count == 0) { provider.rwotypes.removeat (provider.rwotypes.count - 1); restrictionChanged = true; }
+Why does the change have to be made here?
+** 🪶 Typo (non-blocking): ** Summary?
+Messageboard.Error($"Provider: {presenter.Rwo.RwoType.Name}", ex);
+_SyncProgressWindow.Topmost = true;
+Swd invest customizing
+Shouldn't it be enough to insert the record into the list and not just the ID?
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** ❗ suggestion (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+PlaceholderResolver?.File?.FullName
+** ❓Questation (non-blocking): ** What do you mean by "- , TargetNullValue=-"?
+** 🪶 Typo (non-blocking): ** AllowUpdateUsername => AllowUpdateUsername
+Typo: Ein ** Ein **
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Wouldn't it be better to use the service instead of the service?
+** 🪶 Typo (non-blocking): ** AllowUpdateUsername = XmlConvert.ToBoolean(doc.Root.Element(XML_ELEMENT_ALLOWUPDATEUSERNAME).Value);
+UserAccountServiceEmailAdapterMock.Object --> UserAccountServiceEmail
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary
+Wouldn't it be enough to simply call Readvalueexchandlerfromxml (xmldoc, doc name) and then do not have to be checked again whether there is a suitable value exchandler from the XML?
+** ❓Questation (non-blocking): ** Isn't the text block the same as the grid.Column?
+Plugin Ref = "RwoCostGridVisualizationFeature"
+FieldComparer.compare (rwofield, field) == 0
+** 🪶 Typo (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non-blocking): ** Summary ** ❗ suggestion (non
+Isn't the type "IBlob" instead of "BlobField"?
+Shouldn't you prefer to use the constant here instead of the hardcoded string?
+I think it should be an enum, not an enum!
+** ❗ suggestion (non-blocking): ** If the attribute "connectionid" is not empty, it should throw an exception.
+** ❗ suggestion (non-blocking): ** If the service is not available, the name of the service is not available.
+_OpenIdConfigCache is misspelled
+** ❓questation (non-blocking): ** What do you mean by "invalid"?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+Shouldn't that be a flat text box?
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** ❓Questation (non-blocking): ** Do we need to check whether the URI is null or empty?
+MouseDown="TextBlock_MouseDown"
+Why is this handled differently than in `TextBlock_MouseDown`?
+** ❓Questation (non-blocking): ** Why do you need the adaprter here?Isn't that enough for the singleselection parameter adaprter? ** ❓Questation (non-blocking): ** Why do you need the adaprter here?
+Features for <see cref="IRwofield"/> e.g. resetting current value to original value
+Empty line away?
+Shouldn't these be `IFunction` rather than `IFunctionContext`?
+Comments are missing completed
+GenericNode<T> : BaseNode<T> where T : INamedObject
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary?
+** 🪶 Typo (non-blocking): ** public string Id => Guid.NewGuid().ToString();
+** 🪶 Typo (non-blocking): ** Summary? Completed.
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+Typo: "Files Exceed Size"
+FirstOrDefault(x => x.GetPluginid () == LOG_FILES_WEB_SERVICE)?
+Shouldn't the try/catch block be in the try/catch block?
+Shouldn't you be using string.Concat instead of string.Concat?
+** 🪶 Typo (non-blocking): ** Width="30" Margin="20" Margin="20"
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Property for enabling LogFilesPath Textbox. If it is false, Textbox is not enabled.
+nit: rename to GetLogFilesTransferConfigurationResponseGrpc
+Comment on public class and methods Done
+Why are you not using the Lovion.Datatypes.interfaces here?
+Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfigurationaccess. Ilovionpluginconfigurationaccess = Ilovionpluginconfiguration
+If the service is not initialized, zero is returned.
+** ❗ suggestion (non-blocking): ** `` Charp if (folder.key == Rwocons.baseapplication.user_login_settingskey) { return false; } return True; } `` ` `` Charp if (folder.key == Rwocons.baseapplication.user_login_settingskey) { return false; } `` `
+** 🪶 Typo (non-blocking): ** Summary ** 🪶 Typo (non-blocking): ** Summary
+Shouldn't that be 7.1.1?
+Shouldn't it be superfluous?
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** ❗ suggestion (non-blocking): ** Summary? Completed.
+I would have done it like this: public IREADONLYLIST <string> Arguments {get {return _arguments ?? Array.Empty<string>();} } public IREADONLYLIST <string> Options {get {return _options ?? Array.Empty<string>();} public IREADONLYLIST <string> Options {get {return _options ?? Array.Empty<string>();} public IREADONLYLIST <string> Options {get {return _options ?? Array.Empty<string>();} public IREADONLYLIST <string> Options {get {return _options ??
+** ❓questation (non-blocking): ** What do you mean by "must not be null or whitespace"? ** ❓questation (non-blocking): ** What do you mean?
+Shouldn't it be checked whether the file system has the proper permissions?Or should it be checked whether the file system has the proper permissions?
+ID = string.isnullorWhitespace (id) ?
+If the target folder does not exist, does not exist, does not exist, does not exist, does not exist, does not exist, does not exist
+** 🪶 Typo (non-blocking): ** Summary? Completed. ** 🪶 Typo (non-blocking): ** Summary? Completed.
+-> Standard
+** ❗ suggestion (non-blocking): ** `` Charp Public object VisualizationfeataturePresenter => _VisualizationItem?.Presenter; `` `
+Datacontext = "{D: Design Instance Type = Local: Browser Presenter}";
+** ❓Questation (non-blocking): ** Ilovionserviceaccess and Ilovionserviceaccess are both ready -to -read
+Ilovionconfiguration lovionconfiguration.projectsettings.trygetfolder (TEMP_PROJECTSFOLDER_KEY, out _TempProjectFolder);
+Isn't the service injected?Then you don't need to get it again.
+I don't understand what you are trying to do here.Why do you need to copy the chunk again?
+Wouldn't it be better to rename the variable `currentFileData` and the variable `initFile` to `initialFile`?
+```suggestion if (string.IsNullOrEmpty(activity.ParentId) || activity.ParentSpanId.ToHexString().Equals("0000000000000000")) ```
+I think this should inherit from `MvxBasePresentationAttribute`
+Should this be `SetTag` or `SetServiceVersion`?
+Was this intentional?
+Why did you change this?
+Is this used? #Resolved
+`parent.GetTag(Tags.InstrumentationName) != null` is the same as `parent.GetTag(Tags.InstrumentationName)`.
+Is the `IsDarwin` check not needed anymore?
+Maybe rename to `RecyclingCache`?
+>this.exporter.ParentProvider = parentProvider; [](start = 12, length = 31) Why not set it in base class?
+Memory.Lease() needs to be disposed.
+Why did you remove these?
+Should this be `/home/DDITAdministrator/myagent/_work/_temp`?
+Propagators.DefaultTextMapPropagator => Propagators.DefaultTextMapPropagator
+Should we rename this to `DD_HTTP_SERVER_ERROR_CODES` or `DD_HTTP_CLIENT_ERROR_CODES`
+Can `bytes` be `null` here?
+Why did you remove this?
+Does this need to be public?
+Why is this change necessary?
+shouldn't this be `[AppDomainFixedOutput]`?
+Should this be `FailedOpenTelemetrySDK`?
+Why not use ConfigureKestrel?
+Shouldn't we be using `WithWarmupCount` instead of `1` here?
+Do we need the `.UseConsoleActivityExporter`?
+This change is not related to this PR.
+Should this be `SynchronizeVersionReplace`?
+Does this need to be public?
+nit: please sort the usings
+I don't think we should be recording telemetry here. We should be recording the telemetry in `IntegrationOptions<TIntegration, TTarget>.IsIntegrationEnabled`
+Never clear the cache?
+Does this need to be public?
+Shouldn't this be `MvxWindowsCommonAccelerometer`?
+processName.Equals(...) && pids.Contains(...)
+currnent => Current
+nit: ```suggestion return AzureAppServices.Metadata.SiteName; ```
+Did you mean to remove the `else`?
+why not Keccak?
+Wouldn't it be better to split the value of `X-Forwarded-For` and `Trim` it first?
+I think it would be better to change the message to "Visibility of member '{0}' is '{1}' in the implementation but '{2}' in the contract."
+I don't think we need to expose these to the public.
+I don't think we should be using `Console.WriteLine` here.
+Why is this not in the base class?
+Is this `using` still needed?
+Isn't this a breaking change?
+type != null && type.Equals(RunToolSettingValueTypeReservedKeyword)
+@cijothomas do we still need this line?
+Does this interface need to be public?
+Nit: ```suggestion catch (HttpListenerException) ```
+Why is the type changed from `bool` to `object`?
+pipeWriter is disposed before this line
+I'm not familiar with this part of the code, but I'm not familiar with it enough to know if this is the right thing to do.
+Does this need to be public?
+Why did you change this to readonly?
+Is this `using` still needed?
+I think this should inherit from `MvxBasePresentationAttribute`
+Why is this needed?
+Is this used?
+Shouldn't this be `step.Replace(oldValue, newValue);`?
+key.ToBigEndianByteArrayWithoutLeadingZeros() can be replaced with key.Bytes
+Should we rename this to IsAppInsightKey to AppInsight?
+Why not just call `SafelyKillProcess` directly?
+```suggestion if (NameValueHeaderValue.TryParse(escapedPair, out NameValueHeaderValue baggageItem)) { ```
+Should this be `?` instead of `?`?
+_poSSwitcher.ForkchoiceUpdated(newHeadBlock!.Header, finalizedHeader);
+I'm not familiar with this part of the code, but can you explain why?
+Should this be `Microsoft.AspNetCore.Instrumentation`?
+Shouldn't this constructor be removed?
+Wouldn't it be better to change the `if` to `if (posNext < 0) return null;`?
+Shouldn't this be `Wrong_capacity_number_at_constructor`?
+The test name should be `SingleArchiveFileRollsCorrectly1`
+addToStaticNodes should default to false
+no need to call Flush here
+```suggestion _allLayouts.DefaultIfEmpty().Aggregate(StackTraceUsage.None, seed => seed | (layout?.StackTraceUsage ?? StackTraceUsage.None)); ```
+```suggestion var serverInfo = app.ServerFeatures.Get<IKestrelServerInformation>(); ```
+why not Head?.Hash?
+This is missing the `[Benchmark]` attribute
+Security.Instance.DdlibWafVersion cannot be null here.
+Why is this 2 and not 1?
+I think this should be `AddTxResult` instead of `AddTxResult?`
+ReSharper disables once ConditionIsAlwaysTrueOrFalse
+shouldn't this be `instrument.Meter?.Name`?
+Why change the name here?
+Let's revert these changes as they are not related to this PR
+Should we add `.WithDescription(metric.Meter.Name + metric.Description)` here as well?
+Nit: please add newlines at the end of files.
+nit: ```suggestion { "Azure.Clients", (t, s) => new AzureSdkDiagnosticListener("Azure.Clients", t, sampler) }, ```
+Should we rename this method to `ExecuteAsync`?
+Should we do this only if `_statsd` is non-null?
+>string.Format(CultureInfo.InvariantCulture, "milliseconds must be between {0} and {1}", MinMilliseconds, MaxMilliseconds) [](start = 105, length = 105) This message is wrong.
+Is this used? #Resolved
+Should we rename `Resource` to `ResourceTag`?
+ToolFormat toolFormat => ToolFormat
+I don't understand why this is necessary. Doesn't `appExe` already contain `appExe`?
+I don't understand what you're doing here. If _corruptedRequest == true and _requestProcessingStopping == false, then _requestProcessingStopping == true and _requestProcessingStopping == false. Does that mean _requestProcessingStopping == true_?
+Do we need this class? Can it be removed?
+Why did you remove this?
+Why is this needed?
+_keepAliveTimeout and _requestHeadersTimeout seem to be in the same units?
+Should these be sorted alphabetically?
+I think this should be called `CloseChildViewModel`
+Why is this changed?
+What happened to this file?
+```suggestion builder.AddLegacyActivityOperationName("Microsoft.AspNet.HttpReqIn"); ```
+@v-Ajnava please remove the `Position` property from this parameter
+```suggestion [Obsolete("This method has no more usages and will be removed in a future version.")] ```
+Why the change from native to service?
+>foreach (ConsoleRowHighlightingRule cr in this.RowHighlightingRules) [](start = 20, length = 100) Why is this not needed? #Closed
+```suggestion public static class Dictionaries ```
+why change from dictionary to list?
+```suggestion if (!outputFormat.StartsWith("[", StringComparison.OrdinalIgnoreCase)) ```
+shouldnt this be bodyPayload: null?
+```suggestion return GetModel<URLModel>(culture, fallbackToDefaultCulture); ```
+Why do you need `{0}` here?
+```suggestion public static (Core.Models.SearchParameterInfo, SortOrder) GetFirstSortSupportedParam(this SearchOptions searchOptions) ```
+Why this change?
+```suggestion public static int[] GetStrides(int[], bool reverseStride = false) ```
+```suggestion private static StreamWrapper GetContentStream(Response response) ```
+```suggestion /// Gets or sets the format of the output. Must be a comma-separated list of exception ```
+```suggestion public IList<ExportJobFormatConfiguration> ExportJobFormats { get; set; } ```
+Shouldn't this be allowed grant types = GrantTypes.ClientCredentials?
+I don't think we need `onTruncation=left` here.
+`DateTimeOffset? lastUpdated` should be non-null
+Shouldn't this be `[Newtonsoft.Json.JsonProperty("id")]`?
+Shouldn't this be `nameof(totalCount)`?
+thinger = this.projection.ToSqlString( criteria, 0, criteriaQuery, enabledFilters);
+```suggestion eventLogInstance.MaximumKilobytes = this.MaxKilobytes.Render(logEvent); ```
+>string.IsNullOrEmpty(targetTypeModifier) [](start = 66, length = 31) Is this needed?
+```suggestion var dbValue = Convert.ToDateTime(value); ```
+Why did you change this to `Add`?
+Does this need to be public?
+```suggestion return "Too Important for a LAMinate"; ```
+```suggestion public async Task WhenGettingAResource_GivenAClientWithWrongAudienceAuthToken_TheServerShouldReturnUnAuthorized() ```
+Shouldn't this be `SearchParameterNames.ResourceType`?
+Why is this server (headless) build and not a standalone build?
+Why do we need this check?
+How do we know that invoice.PaymentMethods is null?
+```suggestion var end = begin.Seek(length); ```
+```suggestion ReadOnlySpan<byte> buffer = new ReadOnlySpan<byte>(_buffer, 0, _index); ```
+i think this should be `(1 + changelly.AmountMarkupPercentage) / 100`
+```suggestion // wether this object has been spawned with authority. ```
+>BuildAnalyzerConfigs [](start = 21, length = 17) `RoslynApiConfigs` #Resolved
+Should this be `HttpStatusCode.Unauthorized`?
+Shouldn't this be: ```C# foreach (KeyValuePair<string, string> pair in EnvironmentVariables) ``` ?
+DangerousGetPinnableReference() needs to be `ref buffer.DangerousGetPinnableReference()`
+Should this be `name + ". Possible cause: no assembly name specified."`?
+_formatParametersValidator is never used, right?
+```suggestion formattedMessage += ex?.ToString(); ```
+```suggestion [Tooltip("localhost for games on same device, LAN for different devices same wifi, WAN for external connections. See summary for more information.")] ```
+```suggestion if (dictionary.ContainsKey(key) && this[key] == value) return; ```
+```suggestion var osName = GetOSName(Environment.OSVersion); ```
+```suggestion payload = reader.ReadBoolean() ? reader.ReadBytesSegment(reader.ReadPackedUInt32()) : default; ```
+Why not just set it unconditionally?
+```suggestion var clientCertificate = Get<X509Certificate2>(environment, "ssl.ClientCertificate"); ```
+nit: rename to something like "CheckContainerNameForAnonymizedExport"?
+```suggestion { List<string> errorMessages } ```
+`Select new { OrderLines = o.OrderLines.ToList() }`
+```suggestion return _concurrentWrites ??= PlatformDetector.SupportsSharableMutex; ```
+Do we need to use `TimeSpan.UtcNow`?
+```suggestion HttpResponseMessage httpResponseMessage = testServer.HttpClient.GetAsync("http://localhost/404.html").Result; ```
+TableBulkCopyDataGenerator -> TableBulkCopyDataGenerator
+```suggestion string.IsNullOrEmpty(path) ```
+```suggestion internal ulong GetDirtyComponentsMask() ```
+Shouldn't this be in the constructor?
+```suggestion EnsureArg.IsNotNullOrWhiteSpace(secretValue, nameof(secretValue)); ```
+Shouldn't this be `Assert.AreEqual`?
+```suggestion return (trimedText.EndsWith("monat") || trimedText.EndsWith("monaten")); ```
+Should we be calling `NetworkWriterPool.Recycle` after `NetworkWriterPool.SendToReady`?
+Shouldn't this be ret != null?
+Shouldn't this be called `IComponentElementMapper`?
+Does this need to be a Lazy?
+Nit: cast shouldn't be necessary
+Why are we ignoring the 500 response here?
+Does this need to be public?
+Shouldn't this be added to the constructor?
+baseType.ToString() is redundant
+```suggestion /// <summary> /// Default value is false. /// </summary> public bool Enabled { get; set; } ```
+```suggestion public static class CalculatorConundrum ```
+Shouldn't this be `\s+`?
+```suggestion public bool ThrowOnSchemaUpdate ```
+TODO: rename to InvokeHandlerInternal once the obsolete is removed
+Why is this field name prefixed with `m_`?
+```suggestion var clientCertificateBytes = clientCertificate?.GetRawCertData(); ```
+`internal static class EditorHelper`
+Is this supposed to be a debug message?
+```suggestion .CreateSQLQuery("select count(*) as count from EntitySimpleChild where Name like :pattern") ```
+Nit: please add newlines at the end of the files.
+Why do we need both `ClientConnected` and `ClientDisconnected`?
+Why do we need this?
+```suggestion string selectTop = sortExpression == null ? string.Empty : $"{tableExpressionName}.SortValue"; ```
+```suggestion public async Task GiveFhirServer_WhenAllObservationDataIsExported_ThenExportedDataIsSameAsDataInFhirServer() ```
+Why did you change this?
+```suggestion return Regex.IsMatch(text, @"\bmonth\b") && AfterNextSuffixRegex.IsMatch(trimedText); ```
+>new[] { failure.PropertyName } [](start = 105, length = 31) nit: ```suggestion failure.ErrorMessage, new[] { failure.PropertyName } ```
+Please remove this line.
+This should be `CancellationToken`
+Shouldn't this be `Culture.Arabic`?
+I think columbusday should be columbusday1 and columbusday2
+```suggestion /// Gets a hash value calculated from the current set of search parameters. ```
+```suggestion /// Mirror only uses 4 writers at a time, ```
+Why did you remove this?
+```suggestion public static int GetHashCode<TK, TV>(IEnumerable<KeyValuePair<TK, TV>> coll) ```
+```suggestion public override int MaxAliasLength => 32; ```
+Why not const?
+```suggestion // For example, "10-1-2018-10-2" is valid because though "2018-10-2" is also a valid match. ```
+```suggestion else if (tokenJson["access_token"]?.Value != null) ```
+Shouldn't this be `R4`?
+I don't understand what this is trying to do. Can you clarify?
+Shouldn't this be `tabAccessibilityIdentifier` or `tabAccessibilityIdentifier`?
+paramInfo is not used
+```suggestion if (controllerDescriptor.ControllerTypeInfo.Name == "ValidateController") ```
+Can we reuse the base `Exception` class?
+What's the purpose of this?
+Why not private?
+Shouldn't this be `+=` instead of `+=`?
+```suggestion var dateTime = DateTimeOffset.UtcNow.ToString("yyyy-MM-ddTHH:mm:ss"); ```
+Why the change from status to statusFormatted?
+```suggestion public static readonly Regex SinceRegexExp = new Regex(DateTimeDefinitions.SinceRegex, RegexFlags); ```
+```suggestion protected async Task ExecuteAndValidateBundleSuperset(string searchUrl, bool sort, params Resource[] expectedResources) ```
+```suggestion if (string.IsNullOrEmpty(parentText)) ```
+Shouldn't this be `|| searchValueType == typeof(ValueTuple<QuantitySearchValue, TokenSearchValue>)`?
+Why not just do `return new DateTime.BaseMergedExtractor(new EnglishMergedExtractorConfiguration(DateTimeOptions.None));` ?
+Why do you need to convert back to list again?
+Should this be `drawable = appContext.Resources.GetDrawable(intValue, appContext.Theme);`?
+```suggestion return Content(SchemaUpgradeRunner.GetMigrationScript(id)); ```
+```suggestion /// <param name="hasAsset">Whether the asset exists, if it does pre-processor is added, otherwise it is ```
+```suggestion charsConsumed = text.Length < 1 ? 0 : -1; ```
+Yes, we should clone the searchOptions instead.
+```suggestion sb.Append("{ \"Invoices\" : ["); ```
+I don't think we need to pass `isAtParam` here.
+`if (CheckAnimStateChanged(..., out float normalizedTime))`
+```suggestion if (id is null || id.GetType().IsClass && IsAlwaysDirtyChecked) ```
+Should this be `nameof (directory.Value)`?
+```suggestion public class SyncOnlyCacheFixture : TestCase ```
+```suggestion logger.Error($"YTS API Error: Expected {movieCount} movie(s) in result, but found 0."); ```
+Shouldn't this be ret.Success = true?
+I don't think `bundle` can ever be null here.
+This shouldn't be needed
+```suggestion /// <see langword="true" /> if this instance is closing boundary; otherwise, <see langword="false" />.</see> ```
+Why did you change this?
+I think this should inherit from `MvxBasePresentationAttribute` and not inherit from `IMvxBasePresentationAttribute`.
+```suggestion case RecordNotFoundException : ```
+```suggestion string format = string.Format("{0}ms", NetworkTime.Rtt * 1000); ```
+Should this be `(short)MsgType.Ping, NetworkTime.OnServerPing`?
+```suggestion public const string UnitsRegex = @"(k|mil|t|g|b|km|ml|m|リトル(入れ)?|キロートル|ート)"; ```
+Why is the `left_desc` and `right_desc` required?
+Should this be `#if !NETCOREAPP2_0`?
+Shouldn't this be `TextEncoder.InvariantUtf8`?
+Shouldn't this be a `NotSupportedException`?
+Why this change?
+Can we use IReadOnlyList instead of IReadOnlyList?
+```suggestion var groupContents = await _resourceDeserializer.DeserializeAsync<Group>(groupResource).ToPoco<Group>().Member; ```
+I don't think you need to pass the `List<T>` to `Tuple<string, string>>()`
+```suggestion public static int ComputeMinutes(string timeZone, string utcOffset) ```
+```suggestion OtedBuffer<byte> owned = array; ```
+You can use the `IOptions<TaskHostingConfiguration>` type instead.
+```suggestion public bool RenderEmptyLiteral { get; set; } = true; ```
+```suggestion SmallIntColumn searchParamIdColumn = VLatest.SearchParam.SearchParamId; ```
+Shouldn't this be "OnlyTypeAndLastUpdatedSupportedForCompountSort"?
+why not `AddConfigFileVariable` ?
+`(bool Supported, bool IsPartialSupport)` -> `(bool Supports, bool IsPartialSupport)`
+```suggestion public const string ExtractionRestrictionRegex = @"(?<=\s|[\'""\([u4E00-\u9FFF]|^)"; ```
+```suggestion _metricHandler = new MetricHandler(fixture.FhirClient, Format.Json); ```
+Should this be a `ResourceNotFoundException`?
+Should this be conditional on `_importTaskConfiguration.Enabled`?
+```suggestion _delayBeforeNextPoll = _exportJobConfiguration.JobPollingFrequency; ```
+Why is this static?
+```suggestion /// <returns>A <see cref="Task"/> representing connection operation.</returns> ```
+```suggestion string[] results = match.Groups[1].Value.Split('/'); ```
+```suggestion permissions.Contains(Permissions.ServerManagement) ```
+```suggestion public static readonly string PrepositionRegex = $@"(?<prep>^({DateAfterRegex}\s+)?(at|on|of)(\s+the)?$)"; ```
+```suggestion await FillRequestLists(bundleResource.Entry, cancellationToken); ```
+`decimal.Round(default(decimal), default(int))` ?
+I don't think we need to store `isPreDigit` since we already know that it's a boolean.
+```suggestion AddCategoryMapping(1, TorznabCatType.TVAnime, "Anime Series"); ```
+Shouldn't this be `&& Options != NumberOptions.ExperimentalMode`?
+Why is `__ANDROID__` needed?
+>Assert.Equal [](start = 12, length = 12) Assert.Same? #Closed
+Shouldn't this be `admin2Client.GrantAccessAsync(true)`?
+```suggestion public async Task GivenABundleWithUniqueResources_TransactionBundleValidatorThrowsExceptionAsync() ```
+nit: rename to IsStrictHandlingEnabled or IsStrictHandlingEnabled
+```suggestion public NumberModel(IParser parser, IExtractor extractor, bool recode) ```
+Why do you need this change?
+Why this change?
+`permission.Actions == null || permission.Actions.Count == 0`
+```suggestion private string GetLocalizedTag(string flagValue) ```
+`CancellationToken.None` is the default.
+Shouldn't this be `rootPersister.PersistedEntity`?
+Shouldn't this be inside the `#ifdef`?
+```suggestion var decodedValue = context.Request.Cookies[csrfToken.DEFAULT_CSRF_KEY]; ```
+Shouldn't this property be renamed to `DefaultViewType`?
+```suggestion public enum ModalPresentationStyle : byte ```
+```suggestion public const string EndOfDayRegex = @"\b(the\s+)?(eod|(end\s+of\s+day))\b"; ```
+Does this need to be async?
+This doesn't appear to be used.
+Shouldn't this be `(1+(changelly.AmountMarkupPercentage/100))`?
+```suggestion static readonly byte[] NullBytes = { (byte)n, (byte)u, (byte)l, (byte)l' }; ```
+```suggestion if (systemAndCode is null) ```
+```suggestion listTransformLambda = Expression.Lambda(Expression.Convert(listTransformLambda.Body, typeof(object)), listTransformLambda.Parameters.ToArray()); ```
+```suggestion Task Navigate<TParameter>(IMvxViewModel<TParameter> viewModel, TParameter param, IMvxBundle presentationBundle = null, CancellationToken cancellationToken = default(CancellationToken)) where TParameter : class; ```
+>Patient patient = Samples.GetDefaultPatient(); [](start = 12, length = 31) nit: consider using a more descriptive name, like `defaultPatient`
+Don't we need to handle the case where the type is unknown?
+Why is this change necessary?
+```suggestion if (!(conn is ULocalConnectionToClient) ```
+```suggestion public static bool IsNetworkIdentityField(this FieldDefinition fd) ```
+This should be AggressiveInlining.
+Is this needed?
+```suggestion public static bool ReplacePlayerForConnection(NetworkConnection conn, GameObject player, bool keepAuthority = false) ```
+protected override bool IsRetained => _referenceCount > 0;
+Why is this property needed? Isn't the platform part of the Identifier?
+> TimeHourCJKRegex = @"(00|01|02|03|04|05|07|08|09|10|11|12|13|14|15|16|20|6|7|8|9)"; [](start = 16, length = 105) Why is this changed?
+Interlocked.Decrement(ref _referenceCount) == 0?
+```suggestion return GetModel<URLModel>(culture, fallbackToDefaultCulture); ```
+```suggestion [assembly: AssemblyCopyright("Copyright ©  2020")] ```
+```suggestion searchExpressions.Add(Expression.SearchParameter(KnownQueryParameterNames.ResourceType, null, resourceType)) ```
+```suggestion if (qLink.Find("span").Count() == 1 && release.Title.StartsWith("NEW! |")) ```
+Why is this conditional on UNITY_EDITOR?
+`NetworkWriter onSerializeWriter = NetworkWriter.GetPooledWriter();` ?
+Why do we need this?
+Why did you change these tests?
+```suggestion { "thousands", 20 }, { "noughties", 10 }, { "tens", 20 }, { "twenties", 20 }, { "two thousands", 20 }, { "two thousands", 20 }, { "twenties", 20 }, { "two thousands", 20 }, { "twenties", 20 }, { "two thousands", 20 }, { "twenties", 20 }, { "two thousands", 20 }, { "twenties", 20 }, { "twenties", 20 }, { "two thousands", 20 }, { "thousands
+>static byte[] buffer = new byte[1500]; [](start = 12, length = 31) `readonly`?
+How do you distinguish between success and failure cases?
+```suggestion var mode = modes[0]; ```
+```suggestion Assert.ThrowsAsync<OperationNotImplementedException>(() => disabledValidateController.Validate(payload, null, null)); ```
+I'm not familiar with this code, but can you explain why?
+```suggestion Mvx.Warning("TableViewSource IntPtr constructor used - we expect this only to be called during memory leak - see https://github.com/MvvmCross/MvvmCross/pull/467"); ```
+The XML string to parse.
+I think we should rename this to `LTTng_Kernel_ProcessLifetimeKeyword` to be consistent with the other keywords.
+Why is this public?
+```suggestion string hash = JsonConvert.SerializeObject(hashObject).ComputeHash(); ```
+We should only do this if `_retryExceptionPolicyFactory == null`.
+```suggestion _logger.LogWarning(ex, "Unable to cancel export job {request.JobId}. Exception: {ex}"); ```
+Don't we need to guard against it being added to the DI container?
+```suggestion private static readonly NetworkIdentity _localPlayer; ```
+```suggestion public PipelineWriterStream(IPipeWriter writer, CancellationToken cancellationToken) ```
+This should be a double, not a double.
+nit: use `var` instead of `var`
+```suggestion /// Indicates whether the column(s) of for a search parameter is located. ```
+`@" " + Environment.NewLine + "calendar"`
+```suggestion app.UseExceptionNotificationMiddleware(); ```
+`msgType = typeof(T).IsValueType ? MessagePacker.GetId(typeof(T)) : MessagePacker.GetId(typeof(T))`
+```suggestion resourceType = conditinalUpdateParameters[0]; ```
+Should these be `DateTime.Min` and `DateTime.Max`?
+Shouldn't this be `RunPath`?
+```suggestion public bool? IsPartiallySupported { get; set; } ```
+```suggestion authenticator?.OnStartServer(); ```
+```suggestion return newPsbt.ToHex(); ```
+Shouldn't this be `IEnumerable<string>`?
+pipe.Writer.CompleteException(ex); return;
+Should this be `buffer[Position] = (byte)((value >> 8) & 0xFF);`?
+```suggestion if (_currentFragments == null) { _currentFragments = new Dictionary<string, IMvxFragmentView>(); } ```
+Nit: Unnecessary using
+```suggestion fractionMaxValue = (fractionMaxValue == 0 ? 100 : fractionMaxValue); ```
+Should this be `BodyStream` instead of `Body`?
+Should this be `KeepAliveInterval = KeepAliveTimer == 0 ? TimeSpan.Zero : TimeSpan.FromSeconds(KeepAliveTimer)`?
+Shouldn't this be `order.Payment is WireTransfer`?
+`(con as OleDbConnection)?.InfoMessage += (OleDbInfoMessageEventHandler)handler;`
+```suggestion logger.LogError("Only {0} NetworkBehaviour components are allowed for NetworkIdentity: {name} because we send the index as byte in order to save bandwidth.", this); ```
+```suggestion if (defaultInstance is null) ```
+Shouldn't this be internal?
+Shouldn't we be using `fd.FullName` here instead of `fd.Name`?
+I don't understand what you're trying to do here. I don't quite understand what you're trying to do here.
+```suggestion public static string ToUpper(string str) ```
+Shouldn't this be `trimmedText.Equals("last")`?
+```suggestion baseUri = new Uri(baseUri.OriginalString + "/"); ```
+Should this be a `NotSupportedException` or a `NotSupportedException`?
+Typo: `GivenSqlRootExpression` #Resolved
+`AsyncCacheReadWriteLockFactory` -> `AsyncCacheReadWriteLockFactory` ?
+Shouldn't this message be localized?
+`var modelValidators = validators as IModelValidator[] ?? validators.ToArray();`
+Please add the license header to this file.
+Shouldn't this be `layerWeight != weight`?
+Shouldn't this be "remove this Skip property"?
+Shouldn't this be `1.0f`?
+You can just call `SceneManager.MoveGameObjectToScene` here.
+Shouldn't it be ResourceReindex?
+`private readonly List<NetworkIdentity> _dirtyObjects = new List<NetworkIdentity>();`
+should be `paidPartial`, `paidOver`, or false
+```suggestion public bool[] PutMultiple(CacheKey[] keys, object[] values, long timestamp, object[] versions, IComparer[] versionComparers, ```
+```suggestion var relativePath = path?.Trim('/'); ```
+Same here, `GetFirstThursday` should be used instead of `GetFirstThursday`
+why IPModel and not PhoneNumberModel?
+Please revert any changes to this file.
+```suggestion [Obsolete("PlayerController was renamed to Identity.")] ```
+Shouldn't this be `_slabLength - _blockLength`?
+```suggestion public bool Overwrite { get; set; } ```
+```suggestion using (IScoped<IFhirDataStore> dataStore = _fhirDataStoreFactory()) ```
+```suggestion public sealed class BrotliStream : Stream ```
+`out byte[] s_encodingMap = new byte[(sourceLength + 2) / 4]`
+```suggestion options => new URLModel(Culture.Chinese, options => new URLParser(new BaseURLExtractorConfiguration(options))); ```
+```suggestion public IPipeReader CreateReader(IPipeReader reader, Func<IPipeReader, IPipeWriter> produce) ```
+```suggestion NetworkServer.Destroy(player.gameObject); ```
+Why not just catch the specific exception type?
+Should `since` be part of the `ExportJobRecord`?
+```suggestion return text.Equals("and"); ```
+```suggestion : base(Resources.RequestEntityTooLargeException) ```
+I think this should be `foobar` instead of `foobar`
+```suggestion UnityEditor.Undo.RecordObject(this, "Added default Transport"); ```
+```suggestion /// Interface for diagnostics. ```
+```suggestion // The order of this array is important for GetCultureCodeWithFallback ```
+`finished` is never used
+```suggestion public const string FutureRegex = @"(?<past>(后|下|之后|未来(的)?))"; ```
+Should this be `.Singleton() .AsService<IExportJobWorker>();`
+```suggestion Severity = "danger", ```
+```suggestion public const string RangeUnitRegex = @"\b(?<unit>jaar|maand(en)?|weken|week|dag(en)?)\b"; ```
+Shouldn't this be ret = new DateTimeParseResult(er.Start, er.Text);
+> Time.time - lastPing > pingFrequency [](start = 86, length = 31) Do we need to subtract pingFrequency from Time.time?
+nit: typo fixup -> fixup
+```suggestion // Export by ResourceType is supported only for Patient resource type. ```
+Shouldn't this be renamed to `RemovePartitionFromResourceChangesVersion`?
+Nit: space after `if`
+Why is this public?
+```suggestion else if (!string.IsNullOrWhiteSpace(query.GetQueryString())) ```
+File.WriteAllText needs to be disposed.
+><<<<<<<HEAD>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Shouldn't this be `if (DateTimeDefinitions.EarlyHourTermList != null && ...)`?
+```suggestion return typedApplication.StartupStartup(parameter); ```
+nameof(Name) instead of "Name"
+>private [](start = 8, length = 8) Why not public? #Closed
+```suggestion private bool isOwner; ```
+```suggestion public TotalType BundleIncludeTotal => TotalType.None; ```
+Why is this change necessary?
+Why do you need to close the session?
+```suggestion public RetryExceptionPolicyFactory() ```
+How do we know `destination.Length < ComputeEncodedLength(source.Length)` will never be true?
+```suggestion Html = $"To create an invoice, you need to <a href='{Url.Action(nameof(StoresController.UpdateStore), "Stores", new { store.Id })}' class='link-warning'>set up your wallet</a> first", ```
+Why the change from ref to out?
+```suggestion context.Response.Headers.AddRetryAfterHeaders(exception.RetryAfter.Value); ```
+I don't understand what this is trying to do. Can you elaborate?
+Need to pass in the CancellationToken.None here.
+Should this be `responseBundle.Type == Hl7.Fhir.Model.Bundle.Type.TransactionResponse`?
+`[Obsolete("Use playerController.visList instead (=NetworkIdentity.visList)")]`
+>CheckBlackList(ref ret, text); [](start = 16, length = 31) Why do we need this check? #Closed
+Shouldn't this be `textMapping[notification.Event]`?
+How does this affect the vSyncCount of the player?
+```suggestion public void Should_return_match_result_with_context_of_current_request_when_paths_do not_match() ```
+`viewType` is not used
+Shouldn't this be `titleParts[0] .TrimEnd('/')`?
+```suggestion if (rawBundleEntryComponent is RawBundleEntryComponent hasElements) ```
+```suggestion Debug.LogError($"Closed connection: {networkMessage.conn.connectionId}. Received message {typeof(T)} that required authentication, but the user has not authenticated yet."); ```
+```suggestion foreach (var s in lastCardinalTerms) ```
+```suggestion public const string INCLUDE_MOD = "include"; ```
+```suggestion // ServerChangeScene can be called after starting the server ```
+Shouldn't this be `&& culture != "ja-jp"`?
+why not just `FindObjectOfType(typeof(NetworkManager))` ?
+```suggestion return reader.ReadInt16() * (2 * Math.PI / short.MaxValue); ```
+```suggestion char roundNumberZero = 0; ```
+This should be called `R4ModelInfoProvider`
+I think this should be `if (trimedText.StartsWith("business", StringComparison.OrdinalIgnoreCase))`
+Why is this needed?
+`out ReadOnlySpan<byte> buffer`
+Shouldn't this be `application/problem+json`?
+shouldn't this be `this.RequestScopedTypes = Array.Empty<TypeRegistration>`?
+```suggestion return false; ```
+I think this needs to be a virtual IMvxNavigationService
+```suggestion if (lowerFormat == DefaultFormat || string.IsNullOrEmpty(version)) ```
+```suggestion UnityEngine.Debug.Log($"NetworkReaderPool:GetReader byte[] {pool.Count}"); ```
+```suggestion _logger.LogInformation("Reindex job updating progress: {0}", results.Results.Count()); ```
+```suggestion if ((matchingRule.ForegroundColor != ConsoleOutputColor.NoChange && matchingRule.ForegroundColor != oldForegroundColor) ```
+```suggestion commonNamespace = RootNamespaces.TryGetValue(assembly, out string commonNamespace) ?? ExtractAssemblyRootNamespace(assembly); ```
+```suggestion if (!string.IsNullOrEmpty(anonymizationConfigLocation)) ```
+This file is missing the license header.
+```suggestion static readonly Stopwatch stopwatch = Stopwatch.StartNew()" ```
+```suggestion /// This callback is called when a change is created. ```
+```suggestion var nextSegment = _pool.Rent(count); ```
+```suggestion queryParameters[3] = Tuple.Create(KnownQueryParameterNames.LastUpdated, $"ge{_exportJobRecord.Since}"); ```
+shouldn't this be `this.FetchPeopleById<TPerson>()`?
+```suggestion public async Task WhenGettingMetadata_GivenInvalidFormatParameter_TheServerShouldThrowNotAcceptableException() ```
+Shouldn't this be `_name.AsSpan()`?
+```suggestion using IScoped<IFhirOperationDataStore> fhirOperationDataStoreFactory = _fhirOperationDataStoreFactory(); ```
+```suggestion static readonly DateTime epoch = new DateTime(2018, 1, 1, 0, 0, 0, DateTimeKind.Utc); ```
+Should this be `SchemaVersion.V2`?
+`if (_owner is BufferHandle bufferHandle)` ?
+```suggestion throw new ViewRenderException("Unable to render the view. Most likely the Model, or a property on the Model is null."); ```
+```suggestion existingDictiopnary[countryCode] = CountryName; ```
+`allClients` -> `networkClients`
+>ExtractType + "_" + config.Options + "_" + config.Culture + "_" + ExtractType + "_" + config.Options + "_" + config.Culture + "_" + ExtractType + "_" + config.Options + "_" + config.Culture
+Shouldn't this be called `MvxFormsViewPresenter`?
+Why not NotImplementedException?
+nit: ```suggestion // If the spanish date parser need the same regexes, they should be extracted ```
+```suggestion public string this[string requestDirectory] ```
+Shouldn't this be ctorSelectExpressions.Single()?
+You can use `StringComparison.Ordinal` to avoid the `Trim()`
+Why not use `await Task.Delay(TimeSpan.FromMilliseconds(1000));`?
+`TextEncoder` -> `TextEncoder`
+class name should be `NotInstrumentedException`
+```suggestion while (index < length) { ... } ```
+nit: "than skip it" -> "than skip it"
+Does this class need to implement `IAsyncDisposable`?
+```suggestion SetupDataStore(_ => new CurrentVersionInformation(mockCurrentVersions)); ```
+Nit: ```suggestion public void ConstructingFromUtf16StringWithEmptyStringDoesNotAllocate() ```
+Perhaps this should be called `PerformLogToDiagnostics` instead of `PerformLogToDiagnostics`.
+You can do `IocConstruct` instead of `as IMvxViewModel`
+```suggestion public const string PHONE_NUMBER_REGEX_NL = "NLlandsPhoneNumber"; ```
+```suggestion public float GetRTT() ```
+Shouldn't this be Arabic?
+```suggestion return RegisterLayoutRenderer(setupBuilder, name, info => layoutMethod(info), LayoutRenderOptions.None); ```
+Why did you remove this check?
+Typo: WrittenDayRegex
+```suggestion return interceptor?.GetUninitializedLazyProperties() ?? CollectionHelper.EmptySet<string>(); ```
+```suggestion private void SetupSecurity() ```
+Shouldn't this be `if (dialect is MsSql2000Dialect)`?
+```suggestion if (_mode == CompressionMode.Decompress) throw new System.IO.IOException(BrotliEx.QualityAndWinSize); ```
+Shouldn't this be removed?
+```suggestion private Dictionary<ExceptionRenderingFormat, Action<StringBuilder, Exception>> _functions = new Dictionary<ExceptionRenderingFormat, Action<StringBuilder, Exception>>() { ```
+Should this be `bundle.Type?.ToCamelCaseString()`?
+```suggestion if (_schemaInformation.Current < 7) ```
+`bool? retainCasing` => `bool? retainCasing`
+Nit: ```suggestion try { client.GetStream(); } catch { } ```
+since is being ignored..
+>ExistanceCheck [](start = 31, length = 13) Perhaps `IsNotExistanceCheck`?
+You can use `string.IsNullOrWhiteSpace()` to simplify this.
+Why do we need to clone it first?
+```suggestion public ICommand CaptureCommand { get; set; } ```
+```suggestion [DefaultValue(true)] ```
+Wouldn't it be better to change this to `return TimexConstantsEnglish.Months[timex.Month.Value - 1];`?
+I don't really understand what this is doing. Why does it differ from the test above?
+`AddCountryToEmptyDictionary` -> `AddCountryToEmptyDictionary`
+This is a breaking change. The old name was `OnServerConnect` and the new name is `OnServerConnect`
+>Dictionary [](start = 19, length = 10) Dictionary? #Closed
+Nit: please add a blank line above this one.
+```suggestion public static Dictionary<int, string> GetEmptyDictionary() ```
+Missing Copyright notice.
+```suggestion byte[] bytes = BitConverter.GetBytes(value); ```
+`eastern daylight Time` -> `australian daylight Time`
+Shouldn't this be query.ToLowerInvariant();?
+Shouldn't this default to false?
+```suggestion ThisPrefixRegex = new Regex(DateTimeDefinitions.ThisPrefixRegex, RegexOptions.Singleline); ```
+nit: Assert.ThrowsAsync<FhirException>(() => Client.PostBundleAsync(Samples.GetDefaultTransaction()));
+why not `as T`?
+Why was this removed?
+Why do we need to wait for the import to complete?
+```suggestion public Action<int> OnDisconnected = (connId, error) => Debug.LogWarning("OnDisconnected called with no handler"); ```
+>static [](start = 8, length = 6) EmptyBodyTemplate? #Closed
+```suggestion TOutput VisitSortParameter(SortParameterExpression expression, TContext context); ```
+Why not just return `ExtractResult.Success`?
+Why do you need this using?
+```suggestion _items[oldLength - 1] = obj; ```
+```suggestion _isClosing = false; ```
+```suggestion throw new ArgumentException(String.Format("Symbols cannot be identical.")); ```
+```suggestion index = NetworkManager.Singleton.ClientIndex; ```
+```suggestion AllowedScopes = { DevelopmentIdentityProviderConfiguration.Audience, "wrongaudienceclient" }, ```
+```suggestion _context = SessionIdLoggingContext.CreateOrNull(SessionId); ``` ?
+Why change this?
+Why is this changed?
+```suggestion Session.CacheMode = _cacheMode.HasValue ? Session.CacheMode : CacheModeOrig; ```
+Shouldn't this be `>=`?
+Nit: could be: ```C# this._targetBinding?.SetValue(value); ```
+Shouldn't this be `if (er.Type == Constants.SysDatimeZone)`?
+** ❓questation (non-blocking): ** What are the unit names and the values ​​in the regex?
+Thoughts on removing this?
+I think it would be better to make this an `IReadOnlyDictionary<string, string>`
+Why do we need this check?
+Why this change?
+```suggestionHostName = owinRequestHost.ToLowerInvariant(), ```
+Are these needed?
+Why change this?
+`out byte r1` -> `out byte r2`
+```suggestion Path = relativeUrl.IsDefaultPort ? null : (int?)request.Url.Port, ```
+Nit: should be `IndexOfNonVectorized`
+Shouldn't this be `ToDictionary`?
+```suggestion get { return componentClass ?? ReflectHelper.ClassForName(componentClassAssemblyQualifiedName); } ```
+Nit: extra space before `identifierColumnName`
+```suggestion CreateSearchParameterInfo(searchParameter).ResolvedComponents = resolvedComponents; ```
+I don't think you need to initialize this to an empty set
+Is this needed?
+Can you add more detail than just the name?
+```suggestion var requestBundle = Samples.GetJsonSample("Bundle-TransactionWithValidBundleEntry"); requestBundle.ToPoco<Hl7.Fhir.Model.Bundle>(); ```
+>(this.config.CheckBothBeforeAfter && ers[j].Type.Equals(Constants.SYS_DATETIME_DATE, StringComparison.Ordinal) && [](start = 16, length = 119) Why do we need to check both before and after?
+```suggestion public override string ModelTypeName => "numberrange"; ```
+I'm not familiar with this part of the regex, but I'm not familiar with this part of the regex.
+```suggestion public const string Value = "values"; ```
+```suggestion /// </summary> ```
+```suggestion public const string HasOffstring = "hasOffstring"; ```
+```suggestion public class TimeOfDayResolutionResult ```
+Shouldn't this be .Distinct()?
+Why did you change this from List to Dictionary?
+```suggestion public const string IncludeAssociatedData = "_includeAssociatedData"; ```
+Let's revert these changes as they are whitespace only.
+I don't understand why you are creating a new MemoryStream here. Why not just return the MemoryStream directly?
+Maybe rename to CreateReadWriteLock or CreateWriteLock
+```suggestion config.CookieName = string.Empty; ```
+>since = DateTime.UtcNow; [](start = 16, length = 17) is this needed?
+Why the change from PipeFactory to MemoryPool?
+>System.Diagnostics.CodeAnalysis.SuppressMessage("Usage", "CA2227:Collection properties should be read only", Justification = "Need to set in builder")] [](start = 8, length = 105) Consider using `ICollection<string>`. #Closed
+```suggestion var requestBundle = Samples.GetJsonSample("Bundle-TransactionWithVersionSpecificReference"); ```
+```suggestion var popBackStackFragmentName = fragmentAttribute?.PopBackStackImmediateName == ""; ```
+Shouldn't this be `&& !FieldInterceptionHelper.IsInstrumented(entity)`?
+```suggestion public async Task<ReindexSingleResourceRequestResponse> Handle(ReindexSingleResourceRequest request, CancellationToken cancellationToken) ```
+Why this change?
+Shouldn't this be `OneWordRegexInNumber`?
+Why the change from `bool` to `short`?
+```suggestion if (string.IsNullOrWhiteSpace(versionId)) ```
+```suggestion FetchProperty, ```
+Why isn't this just `GetRoleAsync`?
+Should this be `Memory<T>`?
+Tag instead of Guid.NewGuid().ToString()
+Do we need to call `Process` here?
+```suggestion return ExistsFileInProjectPath("Services", "ActivationService.cs") || ExistsFileInProjectPath("Constants", "PageTokens.cs")); ```
+```suggestion private static stat void LoadReferencedAssemblies(Assembly assembly, ISet<Assembly> loadedAssemblies) ```
+Shouldn't this be `\s+` instead of `\s+`?
+```suggestion exportResponse = new GetExportResponse(HttpStatusCode.InternalServerError, outcome.JobRecord.FailureReason); ```
+```suggestion _client = fixture.HttpClient; ```
+```suggestion public static Dictionary<int, string> GetEmptyDiectionary() ```
+AmPmPrefix and AmPmStringList need to be swapped, AmPrefix and AmPmPrefix should be swapped.
+> " + configurationBootstrapperType.Assembly [](start = 105, length = 38) Consider using Environment.NewLine instead. #Closed
+```suggestion return value?.Length > 0 && string.IsNullOrEmpty(value.Trim()) ```
+Is this needed?
+Can you add a link to the issue?
+continuationToken = null;
+```suggestion public bool IsInitialized { get { return (bool)GetValue(IsInitializedProperty); } ```
+NetworkServer.ReplaceHandler<ReadyMessage>(..);
+```suggestion // Sizes less than max int ```
+```suggestion source?.Position = 0; ```
+Should this be `PixelFormat.FromStream(pixelFormat.ToStream())`?
+```suggestion if (Enum.TryParse<SummaryType>(query, true, out var summary)) ```
+I'm not familiar with this code enough to know if this is the correct path to the LTR?
+Why do we need `true` here?
+```suggestion Assert.Equal(shouldCreateDirectory, Directory.Exists(randomSubDirectory)); ```
+logger instead of Debug
+>matchSource.Keys.First(o => o.Item1 == start && o.Item2 == length) [](start = 16, length = 35) Why not just matchSource.Keys[0]? #Closed
+Why use `GetType(T)` instead of `message.GetType()`?
+```suggestion public IEnumerable<Tuple<string, string>> Sort { get; } ```
+```suggestion private const string[] s_SByteTextArray = new string[20] ```
+```suggestion /// <param name="csrfCookieSecureFlag">Set the CSRF cookie secure flag. This is <see langword="false"/> by default.</param> ```
+What about `/Library/Frameworks`?
+Nit: var => IEnumerable
+```suggestion internal IntPtr State = IntPtr.Zero; ```
+```suggestion private void RefreshWatchExternalFileArchiving() ```
+`typedElemat` is not used
+yearCJKStr -> yearCJK?
+```suggestion public sealed class FromBase64 : Transformation ```
+```suggestion /// Gets the collection of Coding. ```
+```suggestion internal void OnServerAuthenticateInternal(NetworkConnection conn) ```
+Why do we need a transaction here?
+why not just call `RebuildObserversDefault(identity, false)`?
+```suggestion return new List<object>((object[])entry.DisasmState); ```
+```suggestion public enum ClearCacheOption : byte ```
+Why is this changed?
+Please revert this. InitPolis is supposed to be called after InitializePolis.
+Shouldn't this be `-` instead of `\`?
+```suggestion || contentMimeType.StartsWith("application/xml-", StringComparison.OrdinalIgnoreCase) ```
+Shouldn't this be `InvalidOperationException`?
+Don't we need to be disposing of the buffer here?
+```suggestion public const string BirthDate = "birthdate"; ```
+I think this TODO can be removed now.
+```suggestion //Until IDENT node is not expected for implicit join path we can throw on not found persister ```
+nit: ```suggestion public void AssertMessageAndLogLevelForTruncatedMessages(LogLevel loglevel, EventLogEntryType expectedEventLogEntryType, string expectedMessage, Layout entryTypeLayout) ```
+Should this define be defined in `#if NETFRAMEWORK`?
+```suggestion public void Multiple_Form_properties_should_bind_to_list() ```
+```suggestion throw new ArgumentException(String.Format("{0} must be followed by an string", parameter)); ```
+`!filteredResources.Contains(KnownResourceTypes.Patient)`
+`var segments = this.routeTries[method].GetMatches(path, StringSplitOptions.RemoveEmptyEntries);`
+```suggestion [Obsolete("Use connectionToClient instead.")] ```
+```suggestion return Regex.Replace(line, pattern, string.Empty, RegexOptions.IgnoreCase); ```
+```suggestion throw new System.IO.IOException("FileStream Flush failed: " + FileName, ex); ```
+>foreach [](start = 16, length = 5) Why not just iterate over the array? #Closed
+> var ambiguousMultiplierRegex = this.config.AmbiguousUnitNumberMultiplierRegex; [](start = 12, length = 58) Consider moving this line above. #Closed
+`this.Compressor = new DefaultCompressor();` ?
+Why this change?
+typo on `follwing`
+```suggestion void OnSceneLoaded(Scene scene, LoadSceneMode sceneMode) ```
+Why change the return type?
+This is not really needed because we only access it via netId get/set anyway.
+>template [](start = 19, length = 7) template?
+```suggestion else if (_fhirReqeustContextAccessor.FhirRequestContext.IncludePartiallyIndexedSearchParams && parameter.IsSupported) ```
+Why did you remove this?
+```suggestion public const string MORE_THAN_MOD = "than"; ```
+Can `firstPageRows` be `null` here?
+Nit: space after `if`
+Why is this serialized property and not just `obj`?
+This should be `sendThread.Join();`
+>!wildCard [](start = 20, length = 10) WildCard? #Closed
+```suggestion return String.Format("{0} {1}", this.Method, this.Url); ```
+```suggestion [Serializable] ```
+Shouldn't this be `Unsafe.Remove(ref utf8Bytes, idx);`?
+```suggestion ItemSelected -= OnItemSelected; ```
+```suggestion public static int ComputeWidthPx(string? FirstName, ```
+`useLocalCoordinates ? targetComponent.transform.LocalPosition : targetComponent.transform.position`
+filter instead of filters?
+```suggestion public virtual void ReadyStateChanged(bool _, bool newReadyState) { } ```
+Change to `internal abstract C#7.2`
+```suggestion public static bool DetectInvalidCharComination(string str) ```
+Shouldn't this be in the base class?
+```suggestion if (controllerDescriptor.ControllerName == "Validate", StringComparison.OrdinalIgnoreCase) ```
+Do we need to call base.ServerAccept here? Can't we just override OnServerAuthenticated?
+Shouldn't this be `[Trait(Traits.Category, Categories.Batch)]`?
+Shouldn't this be numStr + unitStr[0]?
+Why is this change necessary?
+Shouldn't this be `DateTimeStyles.RelativeRegex`?
+```suggestion var ndcRenderer = new NdcLayoutRenderer() { Separator = NdcItemSeparator }; ```
+```suggestion score += specialUSphoneNumberAward; ```
+```suggestion if (resolutionDic.ContainsKey(type) && !resolutionDic[type].StartsWith(DateMinString, StringComparison.Ordinal)) ```
+```suggestion if (!fileInfo.Exists) ```
+`_inner` needs to be disposed.
+```suggestion WarningFile, ```
+I think it would be good to add a short summary of what the threshold is.
+```suggestion if (visitor.SequenceSelectorExpressions.Contains(memberExpression, type)) ```
+I'm not familiar with this part of the code, but shouldn't this be model.Language?
+```suggestion internal static readonly List<Player> playersList = new List<Player>(); ```
+I don't understand why `constructorArgs` is non-null here.
+```suggestion Debug.LogWarning($"Closed connection: {networkMessage.conn.connectionId}. Received message {typeof(T)} that required authentication, but the user has not authenticated yet."); ```
+```suggestion if (uv == null) ```
+```suggestion [Theory] ```
+Virtual so inheriting classes can roll their own
+```suggestion FormsAuthentication.FormsAuthenticationRedirectQuerystringKey = "next"; ```
+I think this can be removed now, right?
+`spaces.Count == 0` is equivalent to `return spaces.Count == 0`
+interfaceType.GetGenericTypeDefinition() == typeof(ITableValuedParameterRowGenerator<,>)?
+Why did you change this?
+Shouldn't this be `if (!dialect.SupportsNotNullUnique)`?
+```suggestion [HideInInspector] public UnityEventConnection OnServerAuthenticated = new UnityEventConnection(); ```
+nit: rename to NormalizedSearchParameterQueryGenerator
+Why do you need to lock here?
+Shouldn't this be `.AsSelf();`?
+Shouldn't this default to false?
+Should this be GetAuthorizationConfigurationForRoles?
+I don't think you need to pass the `SCENE` to `GUI.Box`.
+```suggestion public IDictionary<string, object> Properties => _contextProperties; ```
+Shouldn't this be `&&` instead of `+`?
+What if `authenticator == null`?
+Shouldn't this be `_command?.CanExecute()`?
+The pipeline item to wrap.
+```suggestion "read", resourceType.Patient, result.Resource.Id) ```
+```suggestion /// This is a custom parser that does not enable any profiling. Instead, it relies on being passed nettrace files collected ```
+I think this should say "update the CoreRun folder with newer versions of duplicated dependencies"
+Do we need to call InitWindowsKeywordMaps twice?
+```suggestion public async Task GivenAProperBundle_WhenSubmittingATransaction_ThenSuccessIsReturned() ```
+I would call it `Code` to be consistent with the other properties.
+Nitpick: space between `}` and `{`
+```suggestion Constants.ValidSubTypes.Contains(o.Type) && (extractorType.Contains(Constants.ENGLISH, Constants.SWEDISH)) ```
+Why are you using `Scene` instead of `GameObject`?
+What is the difference between Linux and Linux?
+> [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Performance", "CA1810:InitializeReferenceTypeStaticFieldsInline", Justification = "Significant logic in .cctor()")] [](start = 8, length = 105) Is this needed? #Closed
+I think this should be `InlineData(1)`
+You don't need to pass `null` for `user`
+```suggestion /// <returns><see langword="true" if connection was successfully added for a connection.</returns> ```
+Do we need to override `Release()` in this case?
+```suggestion //I'm so sorry thie code because i want to use 'NegativeNumberTermsRegex' but it is not in the CJKInterface ```
+Should this be queryStatusDictionary.TryAdd?
+Why not use `HashCodeComparer` for both of these?
+```suggestion protected TextEncoder(byte[][] symbols, EncodingName encodingName) ```
+Shouldn't this be `is SQLiteDialect`?
+```suggestion if (!string.IsNullOrEmpty(specialYearTimex)) ```
+Shouldn't this be "overlapsSphereNonAllocArray" instead of "overlapSphereNonAllocArray"?
+I'm not familiar with this part of the regex, do you have any ideas on how to improve it?
+```suggestion newContinuationId = resourceSurrogateId; ```
+Shouldn't the Regex be changed to `NightRegex`?
+```suggestion context.Response.Cookies.Add(new NancyCookie(CsrfToken.DEFAULT_CSRF_KEY, tokenString, httpOnly: true, secure: csrfCookieSecureFlag)); ```
+```suggestion var isCovariant = typeof(Func<object, object>).IsAssignableFrom(listTransformLambda.ReturnType); ```
+Does this need to be abstract?
+```suggestion throw new NotSupportedException("The file image is invalid, please select jpg, jpeg, GIF, PNGOT files."); ```
+does this class need to be public?
+Should be `Url.EscapeDataString`
+```suggestion public string FhirCollectionId { get; set; } ```
+```suggestion resourcePermissions.Add(new ResourcePermission(ResourceAction.Read)); ```
+```suggestion private readonly IEnumerator<T> _source; ```
+```suggestion public int Position { get { return _pos; } ```
+Don't you need to pass the cancellationToken parameter here?
+Nit: Interlocked.Add instead of Interlocked.Add?
+I think this needs to derive from IMvxNotifyPropertyChanged
+```suggestion internal const string BrotliEncoder = "brotlienc.dll"; ```
+```suggestion return false; ```
+I think this should be called `StartNetworkClient`
+Nit: `return text.AsSpan(start, textLength);`
+```suggestion public bool StartOnServerBuild = true; ```
+Would it make sense to add a constant for "early" and "late"?
+```suggestion public virtual Regex AmbiguousUnitNumberMultiplierRegex => AmbiguousFractionRegex; ```
+```suggestion private const string PartiallyIndexedParamsHeaderName = "x-ms-use-partial-indices"; ```
+Shouldn't this be `.FirstOrDefault()`?
+```suggestion public const string AnonymizationConfigurationLocation = "_anonymization"; ```
+```suggestion [Obsolete("Use #if UNITY_SERVER instead.")] ```
+```suggestion if ((int)item >= 7) ```
+```suggestion protected async Task HandleForbiddenAsync(AuthenticationProperties properties) ```
+why not just `expression.Member.DeclaringType is IGrouping<,>` ?
+Nit: ```suggestion #if WINDOWS ```
+why not just `myObj is ICollection<MyClass2>`?
+Why did you remove this?
+Why this change?
+Rename ShareTargetFeatureViewModel to ShareTargetFeatureViewModel
+>WriteLogFile [](start = 31, length = 14) WriteToFile?
+```suggestion return Task.CompletedTask; ```
+Shouldn't this be `persisters[0]?`
+Why did you remove this?
+Shouldn't this be `\s` instead of `\s+`?
+```suggestion Camera.Panel == Windows.Devices.Enumeration.Panel.Back ? Windows.Devices.Enumeration.Panel.Back : Windows.Devices.Enumeration.Panel.Front; ```
+```suggestion /// This assigns control of an object to a client via the client's <see cref="NetworkConnection"/>. ```
+```suggestion private static bool TorrentHTTPSMode => ((ConfigurationDataEliteTracker)configData).TorrentHTTPSMode.Value; ```
+I think this should be changed to `midmorningRegex` to be consistent with the other ones.
+`var loginNeeded = CheckIfLoginIsNeeded(response, SearchResultDocument);`
+```suggestion return ((!String.IsNullOrEmpty(bindingValue) || !bindingContext.Configuration.ConvertEmptyStringToNull && bindingValue != null)) && ```
+Why is this needed?
+```suggestion string normalizedPath = testEnvironmentFilePath.Replace('\\', Path.DirectorySeparatorChar); ```
+Shouldn't this be `FormatDefinition`?
+Why not just return the list directly?
+```suggestion mod = TimeTypeConstants.BEFORE_MOD; ```
+Why not use `System.Globalization.CultureInfo.InvariantCulture`?
+```suggestion [Fact(Skip = "Remove this Skip property to run this test")] public void TamperWithNoDevelopers() ```
+nit: this is the same code as in Recognizer.cs: ```cs public static readonly Dictionary<char, double> ZeroToNineMap = new Dictionary<char, double>(); ```
+```suggestion public MvxFormsApplication FormsApplication => _formsApplication; ```
+I think this should be `I'll go back one day ago`
+nit: ```suggestion public static bool IsSupportedCodePoint(uint codePoint) => codePoint < 0x10000; ```
+```suggestion if (prettyParameterValue != null && !bool.TryParse(prettyParameterValue, out bool isPretty)) ```
+RegisterModel should be called after InitializeModel
+```suggestion if (WasInitialized || IsOperationQueueEnabled || !CanSkipElementExistanceCheck(o)) ```
+```suggestion _logger.LogWarning(ex, "Reindex error occurred recording progress."); ```
+```suggestion string.IsNullOrWhiteSpace(queryString) ? "table tr" : "#torrent-table tr"; ```
+```suggestion /// <param name="sessionProvider">The session provider.</param> ```
+I don't think we need to pass `logFactory` to the `MustBeRethrown` method.
+Shouldn't this be `RequiredHqlParameters`?
+Why not just call `CollectionChangedOnCollectionChanged(sender, args)`?
+>TimeBeforeAfterRegex [](start = 28, length = 17) I think this should be `TimeBeforeAfterRegex` and not `TimeBeforeAfterRegex`.
+Why did you remove this?
+I think this should default to false.
+```suggestion public class EmptyVoidLog : IMvxLog ```
+Consider using `await Assert.ThrowsAsync<OrTimeoutError>(block.Completion);`
+Shouldn't this be `2` instead of `2`?
+```suggestion public const string LangMarker = "Jp"; ```
+```suggestion if (extension is null) return extension.Substring(1); ```
+```suggestion return collectionHelper.EmptySet<string>; ```
+```suggestion string[] ToColumns(ICriteria pathCriteria, string propertyName, System.Func<ICriteria, string> getSQLAlias); ```
+```suggestion /// (3) Sets the <see cref="CosmosDbHeaders.RequestCharge"/> response header. ```
+What if `decimalValue == null`?
+typo: "base" instead of "base-id"
+```suggestion if (Uri.IsWellFormedUriString(path, UriKind.Absolute)) ```
+```suggestion public async Task CancelExportAsync(string id) ```
+```suggestion public bool SupportsAnonymizedExport { get; set; } ```
+Shouldn't this be `\s+weekend\s+year`?
+Should this be `Convert(this System.Drawing.Imaging.PixelFormat)`?
+Why not use `string.Equals`?
+Shouldn't this be `-=`?
+Why did you change this?
+Shouldn't this be `FindTorrentRows`?
+```suggestion batchLoadableEntities.TryAdd(persister.Role, collection); ```
+Would be good to add a few more benchmarks here.
+`dummyEvent` is not used
+Why do you need to clear here?
+Rethrow for `MustBeRethrown()`-exceptions?
+Why not use `weaver.TryGetWriteFunc`?
+```suggestion throw new BadRequestException(ex.Message, ex.Type); ```
+```suggestion ' ' ```
+Why not use `resultOperator is FetchRequestBase` directly?
+```suggestion if (other.DefaultContext == null) ```
+>(Parameter 'transferFormat') [](start = 105, length = 31) `(string)ex.GetLocalizationSafeMessage()` #Resolved
+Why is this specialization specific to EdgeHub?
+```suggestion public bool HasParameters() ```
+```suggestion public override bool IsExtensionMethod => _flags & IsExtensionMethodBit; ```
+Why change the name of the parameter?
+```suggestion [Trait(Category.AcceptanceType, Category.Flaky)] ```
+This should be `virtual` too.
+```suggestion public readonly BitSet<TargetableType> Types = default(BitSet<TargetableType>); ```
+```suggestion public bool SendEmailNotification { get; set; } ```
+Happy with `this.chain.Tip.Height`?
+directory?.Length != 0 is redundant
+@RandalliLama "The query string (for example, a SAS token)..."
+Why did you remove this?
+```suggestion /// This is so that if there's a request for either of these ```
+```suggestion internal static readonly List<int> _enabledVertexAttributes = Array.Empty<int>(); ```
+You should be able to do `NetMgr.ServerSendMessage(actor.playerSession.ConnectedClient, msgFlash);`
+```suggestion internal sealed class PostInitOutputNode : IIncrementalGeneratorOutputNode ```
+minor: missing space before `(`
+>ConfigureAwait(false); [](start = 16, length = 17) ConfigureAwait(false)
+@wilcobmsft please change both of these versions to 0.1.0
+```suggestion /// Ensures that a particular peer is returned from the attempted peers. ```
+>EnvDictionaryComparer.Equals(this.Env, other.Env) [](start = 16, length = 38) Is this method ever getting called? #Closed
+@hyonholee should this be `PSHealthError` instead of `ASRHealthError`?
+```suggestion using (Stream stream = _streamProvider) ```
+Why this change?
+Why did you change the return type of this method?
+```suggestion builder.Services.ConfigureOptions<UmbracoRenderingDefaultsOptionsSetup>(); ```
+```suggestion IEnumerable<EntityContainer> GetContainers(int[] containerIds); ```
+```suggestion [Export(typeof(IVsTypeScriptRemoteLanguageServiceWorkspace))] ```
+`.FirstOrDefault(mmi => mmi.Members.OfType<BuiltinClassInfo>().Name == "Enum")`
+Does it need to be public?
+Can we catch something more specific instead of this blanket-all?
+```suggestion /// Represents in the incoming object received from Facebook and processed by the adapter. ```
+Should this be a `NotSupportedException`?
+>private NullableWalker.SnapshotManager _lazyGuardedSnapshotManager; [](start = 8, length = 74) Consider moving this declaration after `_lazyGuardedSynthesizedStatementsMap`. #Closed
+Why do you need to add the texture cache keys?
+>dc.EmitEventAsync(DialogEvents.Error, err, bubble: true, fromLeaf: true, cancellationToken: cancellationToken).ConfigureAwait(false); [](start = 16, length = 105) `throw;`? #Closed
+>diagnosticBag.Free(); [](start = 16, length = 22) `ToReadOnlyAndFree()`
+This should default to false.
+>this.MyInvocation.BoundParameters.ContainsKey("Tags") ? TagsConversionHelper.CreateTagDictionary(Tags, validate: true) : model.FirstOrDefault().Tags
+Instead of making this public can you make it internal?
+```suggestion public override bool Condition(IEntity solutionEntity, IEntity organEntity, Solution.ReagentQuantity reagent) ```
+Why did you remove this?
+```suggestion error = SNIProxy.Singleton.ReadAsync((SNIHandle)handle, out packet, isMars: _parser.MARSOn); ```
+>OverridesWithDifferentParameterModifiersShouldErrorOut_Ref_RefReadOnly [](start = 20, length = 57) OverloadsWithDifferentParameterModifiersShouldErrorOut
+```suggestion [Advice ("'X' usages should be replaced with 'UserNotifications framework'.")] ```
+Why was this removed?
+`av_strerror` is unused
+```suggestion [Route("unusedaddress")] ```
+>_ => throw ExceptionUtilities.Unreachable; [](start = 16, length = 31) Should this be `NotSupportedException`? #Closed
+Should `s_dispatchProxyInvokeMethod` be `readonly`?
+why do you need fullnodebuilder?
+Shouldn't this be `MaximumUpdateHz`?
+```suggestion "message_send_latency_milliseconds", ```
+Is this verifying the result of `InvokeVoid`?
+Why this change?
+This is wrong. You need to call `RecheckOldestTransaction` first.
+```suggestion _definitionsWithoutReferences.Add(definitionItem); ```
+@v-Ajnava please remove the `Position` property from this parameter
+>PROTOTYPE: Include NInt and NUint? [](start = 17, length = 31) PROTOTYPE: Include NInt and NUint in the constructor. #Closed
+>public override bool IsNullChecked [](start = 8, length = 31) Can be removed. #Closed
+nit: ```suggestion return !SuppressGlobalActivityPropagation && s_diagnosticListener.IsEnabled(); ```
+@quantumagi lets not remove the todo
+>binding.Source = new FullSolutionAnalysisOptionBinding(OptionService, languageName); [](start = 16, length = 105) This doesn't feel right. This binding is associated with the option, not the language name. #Closed
+Does it make sense to have a `ISiloHostBuilder` derived from `ICommunicationListener`?
+`_window` should never be `null` here.
+```suggestion /// <returns><see langword="true" /> if the object should be returned to the pool. false</c> otherwise.</returns> ```
+Nit: could be: ```C# AddVirtualMethodReference(callee); ```
+Namespace should be `Umbraco.Web.Common.Filters`
+>toSkill [](start = 66, length = 10) toSkill?
+Why do you need the lock around the whole thing?
+Why is this a SkipOnHelix?
+>if (slotBuilder.Count > 0) [](start = 16, length = 31) Consider moving this after the `GetSlotsToMarkAsNotNullable` call. #Closed
+why not just `this.logger.LogTrace("(-)");`
+```suggestion public static class ByteSizeHelper ```
+ParentObjectRunOnceParameterSet = "RunOnceUsingParentObject"; ParentResourceIdRunOnceParameterSet = "ParentResourceId";
+Why the change?
+This is a breaking change, you can't do this. You need to add a new property to your own DamageGroupPrototype
+Should this be internal to the server?
+```suggestion /// Gets the content identified by the identifiers. ```
+```suggestion /// description attribute. The default implementation of the Description ```
+same, `Use the non-Apple SDK relating to your account type instead.`
+```suggestion clonedPacket.DisposeAfterWriteAsync = false; ```
+```suggestion Linux, ```
+Are these needed? #Resolved
+You can remove this, it's not networked to clients
+Nit: `uncServerName` => `lpUnServerName` to match the doc'd parameter name
+TransportType == HttpTransportType.LongPolling ?
+>tupleElementEvaluated[i] = true; [](start = 16, length = 31) Consider asserting `!expr.TupleElementEvaluated[i]`. #Closed
+You can use `.Any()` instead of `.Any()` here.
+Nit: this could just be: ```C# static readonly SocketAsyncContext Closed = new SocketAsyncContext(); Closed.Close(); } ```
+```suggestion if (appropriateNode == NodeTag) ```
+same, it's not XAMCORE_4_0
+>int workerSizeAsNumber = 0; [](start = 16, length = 31) Why change this?
+Why not use `using System.Threading.Tasks;`?
+@v-Ajnava why was this line removed?
+```suggestion context.RegisterSyntaxNodeActionInNonGenerated(c => ```
+`this._output = Preconditions.CheckNotNull(output);` ?
+```suggestion /// The conversion and method binding that this delegate is created from. ```
+```suggestion bool IsReusable { get; } ```
+`var extensionManager = this.Workspace.Services.GetService<IExtensionManager>();`
+```suggestion [SupportedOSPlatform ("ios14.0")] ```
+Shouldn't this be `destinationArray[i] = normal`?
+```suggestion /// <summary> /// <returns>The <see cref="IEnumerable{T}"/> of the <see cref="IEnumerable{T}"/>.</returns> ```
+Why did you change this?
+How about adding duration to the end? ``` public static void SetVisibility(VisibilityMode mode, int duration) ```
+Is this needed?
+@hyonholee should this be `StrategyParameterSet` and not `StrategyParameterSet`?
+Why do we need this?
+>return !right.IsLiteralDefaultOrTypelessNew(); [](start = 16, length = 34) Is this method ever getting called? #Closed
+```suggestion var artifactsPath = tempModuleManifestPath.Replace("-temp", ""); ```
+You can just do `appearance.SetData(..., false);`
+Is this used? #Resolved
+```suggestion CreateCompilation(source, parseOptions: TestOptions.Regular7_2, assemblyName: "Paul") ```
+>Main [](start = 20, length = 7) Main?
+I think you can just use `Owner.GetUIOrNull(CrayonUiKey.Key)`
+```suggestion /// The .cs file created by the <see cref="CSharpNetCoreClassLibrary"/> template. ```
+```suggestion _gameTicker.EndRound("Time has run out!"); ```
+Nit: `return await pool.SendAsync(request, cancellationToken).ConfigureAwait(false);`
+Nit: Can we just call this.CancelIoEx()?
+>protected [](start = 8, length = 8) protected #Closed
+```suggestion _session.Save(contentItem); ```
+>if (valueTuple is object && !valueTuple.IsTupleType) [](start = 16, length = 74) Is this change necessary? #Closed
+```suggestion if (element.Certificate == null || element.Certificate.NotAfter.ToUniversalTime() > DateTime.Now) ```
+Why change the name of the field?
+What about `objc.a` and `objc.b`?
+```suggestion if (enumerableGroup is not null) { ```
+Does this need to be added to the list?
+```suggestion public bool? ShortGame; ```
+```suggestion referenceInfo.ConvertedProjectReferences.Remove(convertedReference); ```
+Does this need to be public?
+```suggestion internal ImmutableArray<AbstractProject> Projects => _projectMap.Values; ```
+Shouldn't this implement `IEquatable`?
+Why not use `Path.IsPathRooted`?
+Why is this changed?
+```suggestion foreach (T item in otherSet.Enumerable<T, Enumerator>()) ```
+```suggestion context = contextFactory.CreateDrawingContext(); ```
+This should be 0.1.0
+`this.logger.LogInformation("None of the federation members has a valid collateral amount to check.");`
+Shouldn't this be `[DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.PublicMethods)] TStartup?
+Shouldn't this be `UnKnownMain.exe`?
+>public bool IsEmpty { get { return this.samples.Count == 0; } [](start = 8, length = 45) `internal`
+```suggestion if (_currentOffset + 3 >= _ilBytes.Length) ```
+```suggestion string c1 = "scheme://user:With%20%3F%20Encoded@domain.com"; // FN string c6 = String.Format("scheme://user:{pwd}@domain.com", pwd); // FN string c7 = String.Format("scheme://user:{pwd}@domain.com", pwd); // FN string c8 = "scheme://user:With%20%3F%20Encoded@domain.com"; // FN string c9 = String.Format("scheme://user:{pwd}@domain.com", pwd); // FN string c8
+>private static readonly ObjectPool<Stack<ChildSyntaxList.Enumerator>> childEnumeratorStackPool = ObjectPool<Stack<ChildSyntaxList.Enumerator>>.ChildEnumeratorStackPool; [](start = 8, length = 100) Why not static?
+```suggestion private string _title = MonoGame.Utilities.AssemblyHelper.GetDefaultWindowTitle(); ```
+```suggestion if (_numUserWaits == WaitHandle.MaxWaitHandles) ```
+```suggestion PKTransitPassProperties GetPassProperties (PKPass pass); ```
+```suggestion uniqueSsn = String.Format("{0}-{1}-{2}", ssn.Substring(0, 3), ```
+`[BindAs (typeof (nfloat?))]` -> `[BindAs (typeof (nfloat?))]`
+minor: space before `(`
+```suggestion statusCode = NegotiateStreamPal.CompleteAuthToken(ref securityContext, ```
+@hyonholee should this implement `PSArgumentCompleter`?
+```suggestion var contentItems = Array.Empty<ContentItem>(); ```
+Can we move this into the try-catch block?
+Don't change the name of the property.
+I think you need to pass `didWork` to `IndexChange.Invoke`
+```suggestion reader.BaseStream.Position = 0; ```
+shouldn't this be ExceptionReceivedCalled?
+Why do we need this check?
+`_spawnWindow` needs to be disposed.
+Are these not needed now that you have the cache item?
+Shouldn't this be 10 seconds?
+DataSource and DataMember need to be disposed first.
+Why the change from 2 to 1?
+Should this not be `this.serviceProvider.GetRequiredService<Func<NodeConfiguration>>()`?
+```suggestion await using var response = await _httpClient.GetAsync(url).ConfigureAwait(false); ```
+Why not just `return ((double)sum / count)`?
+```suggestion && !typeParameter.IsAccessibleFromSymbolOrEnclosingType(enclosingSymbol)) ```
+```suggestion if (!File.Exists(dstPath)) ```
+Is this method used?
+I don't think we need to clear the entire cache?
+> Those values ​​are processed by first populating the return type and parameters ​​are processed by binding // the syntax from source. Those values ​are processed by first populating the return type and parameters by binding // the syntax from source. Those values ​​are processed by first populating the return type and parameters by binding
+nit: why not `switch`?
+```suggestion public void GetAndStoreTokens_ExistingNoCachingHeaders_NotOverriden(string headerName, string headerValue) ```
+Why is this needed?
+How about this? ```suggestion "--helix-python-path \"$HELIX_PYTHONPATH\" " + ```
+Why server and not server?
+damageModifierSet -> damageModifierSet
+```suggestion // Localization folder out of App_Data ```
+```suggestion // We do not need to catch all the binders, 4K should be enough for most cases. ```
+Why not just set it unconditionally?
+What if the command doesn't start with the command name prefix?
+```suggestion _currentChunkMemoryUpdated = false; ```
+```suggestion ErrorHelper.Warning (97, $"Aot files could not be found at the expected directory '{msymdir}'."); ```
+Don't need to set this to an empty string
+This needs to be `[Trait("Crash", "True")]`.
+nit: space after `if`
+```suggestion return ex.Message.Contains("Provided Job List Uri is not accessible.") && raex.Response.StatusCode == 400; ```
+Why this change?
+```suggestion if (_isSingleSegment) ```
+```suggestion // to then decide to show hte tooltip. But once they decide to show the tooltip, ```
+```suggestion Diagnostic(ErrorCode.WRN_GeneratorFailedDuringGeneration).WithArguments("CallbackGenerator", "InvalidOperationException", "I'm sorry dave").WithLocation(1, 1) ```
+Shouldn't it be a `ConfigureAwait(false)`?
+>// We allow John to access Paul's internal Goo even though strong-named John should not be ```suggestion // We allow John to access Internal Goo even though strong-named John should not be ```
+length is the length of the node.Value?
+`nameof(ticks)` => `ticks`
+>BoundArguments.Length [](start = 82, length = 22) Consider adding a `BoundArguments.Count` property to this tuple. #Closed
+Why are we asserting the type.Category == TypeFlags.Int32, TypeFlags.Int64 and TypeFlags.Char?
+This should derive from AzureRMCmdlet
+```suggestion var cultureInfo = new CultureInfo(culture); ```
+>WriteVerbose(Constants.MSGraphMigrationMessage); [](start = 12, length = 58) I think this should be a debug message.
+Nit: Step into the code and verify that the 'UseStrongCrypto' flag is being set.
+```suggestion // when we run it again, we get not output because the comparer has suppressed the modification ```
+Why not just call `TryGetComponent` unconditionally?
+```suggestion : BuilderBase<Property>, ```
+```suggestion public void GetAttributeValue_InvalidArgs_Correct(string input, string attribute, string? result) ```
+```suggestion Logger.LogDebug("Found API endpoints in plugin " + type.Assembly.FullName); ```
+Why do we need to change this?
+Shouldn't this be `.AddHttpClient(c =>`?
+Nit: space after `if`
+@v-Ajnava please remove the `Position` property from this parameter
+>case MessageID.IDS_FeatureReadOnlyMembers: // syntax check [](start = 16, length = 57) Should we report an error in this case? #Closed
+```suggestion fireAndForgetDelivery = config.Properties.TryGetValue(FIRE_AND_FORGET_DELIVERY, out string fireAndForgetDeliveryStr) ? Boolean.Parse(fireAndForgetDeliveryStr) : false; ```
+Nit: ```suggestion finally { hubActivator.Release(); } ```
+```suggestion protected void Dispose(bool disposing) ```
+```suggestion .Where(s => s.IsAnonymousTypeProperty() || s.IsTupleField()); ```
+You can use the `CanExpose` extension method.
+>if (translationContext.SourceLanguage != translationContext.TargetLanguage && message.Text != translationContext.SourceText) [](start = 16, length = 119) Why is this check needed?
+```suggestion Log.Info(Globals.LogTag, "No ServiceUuids in " + GetPacketTypeToString(packetType)); ```
+>if (name == null || NamedTypeSymbol.IsElementNameReserved(name) != -1) [](start = 16, length = 105) Are we losing coverage here? #Closed
+```suggestion serviceCollection.AddSingleton(typeof(AttachmentExtractor), typeof(MediaSourceManager)); ```
+`ObjectCreationExpressionSyntax` -> `ObjectCreationExpressionSyntax`
+I think this should derive from `Avalonia.Win32.SafeHandles`
+Shouldn't this be `source < MouseButton.Touch1 && source > MouseButton.Touch10`?
+Should this implement `IDisposable`?
+```suggestion /// <exception cref="InvalidDataException">Thrown when an internal IO error occurs.</exception> ```
+> [BaseDefinition(PredefinedClassificationTypeNames.FormalLanguage)] [](start = 87, length = 57) This is not the right location for this attribute. #Resolved
+```suggestion throw new ArgumentException("ClientGW activation IDs can only be created for system grains"); ```
+Why did you change this?
+Why is this using needed?
+I'm not familiar with this code, can you explain?
+```suggestion /// The height of this <see cref="Viewport"/>. ```
+>public static implicit operator Result(BoundExpression expr) [](start = 8, length = 35) implicit operator? #Closed
+>Assert.Equal(typeInfo.Type, model.GetOperationInternal(decl)?.Type); [](start = 16, length = 105) Is there a test for this? #Closed
+Shouldn't this be `CultureInfo.InvariantCulture`?
+` cancellationToken = default(CancellationToken)`
+Why was this made non-readonly?
+Don't we need to pass `databasePath` to `ExecuteCommand`?
+Why did you change this test case?
+```suggestion syntaxKindsPatterns.UnionWith(actualSyntaxKindsPatterns); ```
+>return ConstantValue.Create(value != 0 ? true : false); [](start = 16, length = 44) Consider using `return type.SpecialType.IsInteger(value)` instead. #Closed
+Missing newline at the end.
+```suggestion exportSectionRegistar.Add(Constants.BuildVersion, async () => { } ```
+Why not just catch the specific exception?
+why was this removed?
+>this.jsonSettings = OrleansJsonSerializer.UpdateSerializerSettings(this.typeResolver, this.grainFactory), this.options.UseFullAssemblyNames, this.options.IndentJson, this.options.TypeNameHandling
+```suggestion public static IEnumerable<FontFamily> SystemFontFamilies => SystemFontFamily.All; ```
+```suggestion [assembly: SuppressMessage(""Test"", Scope=""NamespaceAndChildren"", Target=""N.N1"")] ```
+Nit: ```suggestion Thread.Sleep(100 * tries); ```
+shouldn't this be `!root.FindNode(...)`?
+>// (12,13): warning CS8602: Dereference of a possibly null reference. [](start = 16, length = 113) I think we should report a warning in this case. #Closed
+>IDS_FeatureExtendedPropertyPatterns [](start = 51, length = 26) Should this method be called "GetFeatureExtendedPropertyPatterns"? #Closed
+`ForTextStyle` -> `PreferredFontDescriptorForTextStyle`
+I think this needs to be `IAsyncProvider` not `IAsyncProvider`
+```suggestion usersContract.SearchText = DateTime.TryParse(parsedSearchText, out var _) ```
+```suggestion [UmbracoApplicationAuthorize(Constants.Applications.Media)] ```
+@hyonholee should this type be renamed to `PSDeliveryRuleCacheExpirationAction`?
+```suggestion : optionSet.GetOption(GetOptionForDeclarationContext, language) ```
+minor: `SRGBColorSpace` -> `SRGBColorSpace`
+```suggestion var ip = HttpContext.GetNormalizedRemoteIp(); ```
+>ConfigureServices [](start = 21, length = 17) ConfigureServices? #Closed
+>SupressForEachMissingMemberErrorOnErrorType [](start = 20, length = 34) Perhaps: `[WorkItem(32334, "https://github.com/dotnet/roslyn/issues/32334")]`
+@KonajuGames @dellis1972 ?
+Why are we casting to the same type twice?
+can we move this to the top of the class?
+Why are you using `WaitAndGetResult` instead of `ToList`?
+```suggestion public static string? CombinePaths(string? root, string? path) ```
+Nit: should be `>=`
+```suggestion //Defered Parsing ``` ?
+`int manifestFlag = (manifestCaPresent || integrtySectionPresent) ? 1 : 0;`
+Can we move this to the testUtil class?
+This should be inside the `Dispatcher.UIThread.InvokeAsync`
+This should be `TimeSpan.FromSeconds(1)`
+>ErrorFacts.GetStaticClassParameterCode(isInInterface: false), syntax, type.Type) [](start = 16, length = 105) nit: consider naming `GetStaticClassParameterCode` #Closed
+How is this used?
+```suggestion emitOptions = emitOptions.WithDefaultSourceFileEncoding(source.Encoding); ```
+```suggestion if (token.ValueText.StartsWith("await", StringComparison.OrdinalIgnoreCase)) ```
+Should this be `Worker Thread {workerThread.ManagedThreadId}`?
+Shouldn't this be `analyzer.IsEnabledByDefault.Should().BeTrue()`?
+```suggestion var parenthesizedParameters = Syntax.AsParenthesizedLambdaExpressionSyntax().ParameterList; ```
+Should be 3.1.1
+```suggestion _connection?.Dispose(); _connection?.Dispose(); ```
+```suggestion private readonly HashSet<DocumentId> _documentsWithoutTodoComments = new(); ```
+```suggestion protected static (IOperation operation, SyntaxNode node) GetOperationAndSyntaxForTest<TSyntaxNode>(CSharpCompilation compilation, bool highLevelOperation = true) ```
+>private BoundNode VisitDeconstructionAssignementOperator(BoundDeconstructionAssignmentOperator node, TypeWithState rightResult) [](start = 8, length = 87) Consider making this method private. #Closed
+```suggestion _logger.LogInformation("Kestrel listening to unix socket {socketPath}", socketPath); ```
+Need to resolve this TODO #Resolved
+```suggestion /// <param name="orchardhelper">The <see cref="IOrchardHelper"/> to parse.</param> ```
+```suggestion serializer.DataReadFunction("validation", "^[a-zA-Z0-9 ]*$", value => _validation = new Regex("^[a-zA-Z0-9 ]*$", RegexOptions.Compiled)); ```
+I don't think we should be checking for `FocusedDrawable != null` here.
+```suggestion // do not rewrite user defined conversion in expression trees or ```
+Should this be `string.IsNullOrEmpty(referenceItemHasSDKName)`?
+```suggestion _ => H[status.ToString()], ```
+`sourcelink` -> `sourceLink`
+```suggestion var input = "Class [|C|] \n End Class"; ```
+```suggestion yield return new object[] { "01", "\'\"yy", CultureInfo.InvariantCulture, DateTimeStyles.AllowWhiteSpaces, new DateTime(2001, 1, 1, 0, 0) }; ```
+Leave ConfirmImpact at default
+```suggestion public class ResistLockerComponent : Component ```
+```suggestion if (_errorCount >= 100) ```
+Why are the start and stop ids reversed?
+```suggestion return _directoryHandle == IntPtr.Zero || DequeueNextDirectory(); ```
+nitpick: this should be named `nonBlockingCalls`
+```suggestion var option = context.Document.GetOptionsAsync(context.CancellationToken).GetOption(); ```
+Should this be conditional on LdapOptions.EnableLdapRoleClaimResolution?
+minor: no need for the `[UnsupportedOSPlatform]`
+>constraintFailureDiagnosticsOpt [](start = 105, length = 26) I don't think we need to pass `constraintFailureDiagnosticsOpt` here. #Closed
+These permissions should be set by the base class, not by the base class.
+`internal static bool IsHardSelection(`
+>CSharpCompoundAssignmentOperation : BaseCSharpAssignmentOperation [](start = 17, length = 38) CSharpAssignmentOperation : BaseCSharpAssignmentOperation(inConversion, outConversion, Operations.BinaryOperatorKind operatorKind, bool isLifted, bool isChecked, ITypeSymbol operatorMethod, SemanticModel semanticModel, SyntaxNode syntax, ITypeSymbol type, Optional<object> constantValue, bool isImplicit) : base(operatorKind, isLifted, isChecked, operatorMethod, semanticModel
+```suggestion public bool CacheBuildResults => _outputResultsCacheFile = value; ```
+Shouldn't this be `transformMatrix.Multiply(ref _projection, out projection);`?
+Nit: ```suggestion if (tree is null) ```
+```suggestion /// the only function that shall be used on this ModuleDesc. ```
+>namespacesAndTypesToProcess.Push((NamespaceOrTypeSymbol)member); [](start = 16, length = 51) Consider moving the declaration outside of the loop. #Closed
+```suggestion string.Equals(x.Defaults["action"].ToString(), postedInfo.ActionName, StringComparison.OrdinalIgnoreCase) && ```
+minor: no need for `/* No headers provided for simulator */`
+Why not use `Environment.GetEnvironmentVariable("Windows_NT")`?
+shouldn't this be `currentDisplay.Bounds.X`?
+```suggestion return new Dictionary<CPos, SubCell>( { location, SubCell.FullCell }); ```
+```suggestion private SharpDX.Direct3D11.Texture2D cachedStagingTexture; ```
+why do we need to call GetRequiredLanguageService twice?
+>(refKind != RefKind.None || fiedlSymbol.IsReadOnly) [](start = 16, length = 73) Consider adding a `refKind != RefKind.None` check before the Spill call. #Closed
+>TypeSymbolWithAnnotations.Create((_syntax as ForEachStatementSyntax)?.Type.IsVar == true) [](start = 73, length = 73) Consider using `TypeSymbolWithAnnotations.Create` instead. #Closed
+```suggestion typeParameterList, parameterList, baseList, constraintClauses, openBraceToken, members, closeBraceToken, semicolonToken); ```
+Roslyn -> Roslyn
+```suggestion /// <returns>The <see cref="TabItem{T}"/>s.</returns> ```
+class name should be `AcceptanceTestingPersistence`
+```suggestion var shellSettings = _shellSettingsManager.CreateDefaultSettings(); ```
+Nit: missing comma at the end of the last element
+```suggestion await JsonSerializer.DeserializeAsync<MediaInfo>(jsonStream, JsonDefaults.GetOptions(), cancellationToken).ConfigureAwait(false); ```
+Nit: ```suggestion if (method is UnboxingMethodDesc unboxingMethodDesc) ```
+>AllInterfacesNoUseSiteDiagnostics [](start = 66, length = 31) AllInterfacesNoUseSiteDiagnostics? #Closed
+>Claims.FirstOrDefault(claim => claim.Type == AuthenticationConstants.AudienceClaim)?.Value [](start = 73, length = 74) Why not just do `Claims.FirstOrDefault(claim => claim.Type == AuthenticationConstants.AudienceClaim)?.Value`? #Resolved
+```suggestion public sealed class ServiceHelpers ```
+`Array.Clear(array, 0, clearSize);` ?
+Nit: consider naming this `Get_CORINFO_SIG_INFO_OrInstantiatingStub`.
+Why this change?
+Is this constructor used?
+Is this used? #Resolved
+Why does TryValidatePath need to be skipped?
+```suggestion internal async Task<MultiClusterGossipChannel> Publish(IMultiClusterGossipData data) ```
+Does this need to be public?
+>(Target as Container)?.Children.Skip(64).Any() == true?
+Why is this needed?
+```suggestion INSItemProviderReading GetObject (NSData data, string typeIdentifier, [NullAllowed] out NSError outError); ```
+uncsumed -> unconsumed
+```suggestion public interface NSUserNotificationAction : NSCopying, INSCopying ```
+```suggestion xml.Add(SerializeCleanupPolicy(contentType.HistoryCleanup)); ```
+`var(items, selectedItem) = TryGetSelectedIndex(methodGroup, symbolInfo);`
+```suggestion /// <param name="maximumRetainedCapacity">The maximum value for <see cref="StringBuilder.Capacity"/> instances with.</param> ```
+```suggestion if (EnumType.IsDefined(typeof(FlagsAttribute), false) && enumName.IndexOf(',') != -1) ```
+```suggestion public IList<string>? MetabolizerTypes = null; ```
+```suggestion b.Bind(context, Interop.Widget.GetAppId(context)) ```
+Instead of `true, true` can you use `block.Obj.Header.PrecomputeHash(onlyIfCheap: true)`?
+This class should be defined in `PSArgumentCompleter`
+```suggestion services.AddTransient<IDeploymentSource, AllShortcodeTemplatesDeploymentSource>(); ```
+Why change it to uint?
+```suggestion void M([My][My] int x) ```
+```suggestion /// If the tab to be removed is currently selected, then the next one is selected, otherwise the previous one is selected ```
+```suggestion IEnumerable<ICustomAttribute> GetReturnValueAttributes(CommonPEModuleBuilder moduleBuilder); ```
+remove the `[Static]`
+Shouldn't this be ActiveIssue rather than ~TestPlatforms.Windows?
+Shouldn't this be `applyLocalised(parameters.Value)`?
+>return null; [](start = 12, length = 12) should throw instead #Closed
+Shouldn't this be `DateTime.UtcNow`?
+`The certificate " + certificate.FriendlyName + " does not allow access to " + header.DatabaseName` ?
+You can use `TimeSpan.FromSeconds(2)`.
+```suggestion if (node is ParameterSyntax) ```
+```suggestion throw new PSArgumentException(String.Format("\'{0}\' is not a valid private range ip address", ipAddress)); ```
+Don't we need to unsubscribe from the unsubscribe?
+Why did you remove this one?
+```suggestion /// <remarks> /// Any class or method marked with this attribute will throw a Volatile error which can be suppressed /// with <see cref="UmbracoSuppressVolatileAttribute"/> this is intended for classes which are public for testing purposes, but should not be accessed otherwise /// </remarks> ```
+>analyzerActions.GetValueOrDefault(AnalyzerActions.Empty).SymbolStartActionsCount [](start = 16, length = 74) Consider using `.HasValue` instead. #Closed
+```suggestion private static Random Instane => threadRandom ??= CreateInstane(); ```
+shouldn't this be utterance?
+this can just be: ```suggestion else if (this.CurrentToken.Kind == SyntaxKind.ExclamationToken) ```
+```suggestion var serialize = false; if (serialize) ```
+```suggestion if (this.CurrentToken.Kind == SyntaxKind.OpenBracketToken && this.PeekToken(1).Kind == SyntaxKind.CloseBracketToken) ```
+Why was this removed?
+`if (context.recipients.Any(r => r.SubtractFeeFromAmount))`
+```suggestion var radioQuery = new TypeEntityQuery(typeof(RadioComponent)); ```
+```suggestion i += (textLength - 8); ```
+nit: ```suggestion if (this.target_framework_mapping.TryGetValue((warning.BuildEventContext.NodeId, warning.BuildEventContext.ProjectContextId)) ```
+```suggestion return new MacOSTextInput(osuTKWindow); ```
+LoOC must always be available
+Why did you remove this part of the concat?
+Shouldn't this be `DefaultTipAgeSeconds`?
+```suggestion public void OnAssetReloaded() ```
+I think this should be changed to `BanAndDisconnectPeer`
+>we are not responsible for reporting use site errors here, just the failed leaf conversions. [](start = 16, length = 105) Consider adding a link to the issue? #Closed
+```suggestion _port = Convert.ToInt16(port); ```
+>OutSuppressionInference [](start = 20, length = 17) Perhaps `InSuppressionInference` #Closed
+Are these needed? #Resolved
+Why this change?
+```suggestion SubscriptionName = string.IsNullOrEmpty(OldName) ? string.Empty : $"{SubscriptionName}.{new Random().Next()}"; ```
+```suggestion var lastClEntity = svEntityManager.GetEntity(lastSvEntity).Uid; ```
+why use `loggerFactory` instead of `EventHubQueueCache`?
+shouldn't this be `arg?.NameColon != null`?
+Why not return false here?
+>private static DynamicExpression MakeDynamic(CallSiteBinder binder, Type returnType, ReadOnlyCollection<Expression> arguments) [](start = 8, length = 105) Consider naming this `MakeDynamic` instead of `MakeDynamic`. #Closed
+```suggestion _cancellationTokenRegistration = null; ```
+```suggestion public override void ConfigureMappings(IConfiguration config, ApplicationContext applicationContext) ```
+Why did you remove this?
+```suggestion public async Task FormatMultipleAttributeOnSameLineAsField() ```
+Why is this public?
+Nit: Assert.Throws instead of Assert.Throws?
+This should be moved into the Intersects method.
+>var extensionClass = this.ExtensionClassTypeNoUseSiteDiagnostics; [](start = 12, length = 119) nit: var => this.ExtensionClassType
+```suggestion httpContextAccessor.HttpContext = new DefaultHttpContext(); ```
+```suggestion private class DummyApplication : ApplicationWrapper ```
+same, `count` -> `DefaultSamplePositions`
+Seems like this could just be `Array.Clear(buf, 0, rsaSize);`
+Can you revert this one please?
+>d = d.WithSourceSuppression(true); [](start = 16, length = 31) Consider moving this inside the `if` below. #Closed
+Shouldn't this be removed?
+Why was this removed?
+```suggestion [Obsolete("Deprecated. Use DefaultHttpContextFactory instead.")] ```
+```suggestion private static readonly byte[] s_noEscape = new byte[] { }; ```
+@hyonholee should this be `SetIFGByResourceIdSet`?
+```suggestion public string ResourceGroupName { get; set; } ```
+Why is this public? Shouldn't this be internal?
+```suggestion using (new CultureInfo("en-US", false)) ```
+>symbol.IsStatic [](start = 16, length = 14) Is this needed? #Closed
+Shouldn't this be `IComparable<ClientGrainId>`?
+Maybe rename to ConsensusCheck
+>n^3 [](start = 53, length = 4) n^4? #Closed
+>DiagnosticInfo [](start = 16, length = 14) Please revert this change. #Closed
+why not just inherit from `NServiceBusFeature`?
+Does this need to be a separate method?
+`GetHeadingLevel` sounds weird to me. Maybe `GetHeadingLevelByAutomationPeer`?
+```suggestion Assert.ThrowsAsync<BadHttpRequestException>(async () => #pragma warning disable CS0618 // Type or member is obsolete ```
+I think `AddRange` is more efficient than `SelectMany`
+```suggestion public bool AutoDetectSettingsUsed => AutoDetect || string.IsNullOrEmpty(AutoConfigUrl) && !string.IsNullOrEmpty(Proxy); ```
+Why did you remove this?
+>conversion = Conversion.NoConversion; [](start = 16, length = 31) Is there a test for this case? #Closed
+Shouldn't this be `"TopologyChange"`?
+>protected virtual bool AllowRefOrOut => true; [](start = 8, length = 35) Can we make this a virtual? #Closed
+```suggestion throw new BindingException (1014, true, "Unsupported type for Fields: {0}", fieldTypeName); ```
+No need for `[Export]` since it's already implied by the `[Export]`
+typo: `calleeType` -> `conditionMemberName`
+```suggestion // This happens when we request the end of the last line. This happens when we request the end of the first line. ```
+Nit: new IntPtr(-1) => IntPtr.Zero
+```suggestion string codeBase = GetEntryAssemblyLocation(); ```
+`paintColor.Dispose(); textPaint.Dispose();`
+I don't think we should be stateless workers.
+Why was this removed?
+>UseExpressionBodyForConversionOperatorsDiagnosticId [](start = 16, length = 38) Consider using `UseExpressionBodyForConversionOperators` instead. #Closed
+>!original.WasCompilerGenerated && !_methodBodyFactory.IsCodeCoverageDisabled [](start = 16, length = 119) Consider inverting this condition. #Closed
+```suggestion var component = self.Declaration.Type; ```
+Would it make sense to log the response here as well?
+```suggestion () => Type.GetType(attribute.Name) ?? NamespaceImports.Select(x => Type.GetType($"{x}.{attribute.Name}")).FirstOrDefault(), ```
+```suggestion var rv = ExecutionHelper.Execute (Configuration.XIBuildPath, new string[] { "--", "MyAppWithPackageReference", Platform.ToString () }, out var output); ```
+>BoundCall.Synthesized(syntax, expression, LocalRewriter.Unsafe); [](start = 16, length = 73) Consider using `BoundCall.IsSynthesized` instead. #Closed
+Should this be `ReceivedFrameForStreamID` to match the `ReceivedFrameForStreamID` above?
+Introduce proper way to automatically generate these dates before final release
+```suggestion var ilasmExeName = PlatformInformation.IsWindows ? "ilasm.exe" : "ilasm"; ```
+shouldn't this be `DisplayDevice.Default.RefreshRate`?
+```suggestion Debug.Fail("Could not create the appropriate CreateRange method."); ```
+`out _` is not used
+Please add a default case for these.
+```suggestion /// True if there was a localloc anywhere in the method. This will affect ```
+```suggestion /// Attempt to connect to the server and return a null task if connection failed. This throws on cancellation. ```
+```suggestion Loc.GetString(" This is {0}. {1:They} {2: are} a {1} year old {2}.", Name, Sex.ToString().ToLower(), Age, this); ```
+`var classificationType = typeMap.GetClassificationType(part.ClassificationType);`
+The `pos1 < len1 && pos2 < len2` check is redundant.
+you can use `[BindAs (typeof (VCard))]` to avoid the manual reflection
+> HandleVariableDeclaration, SyntaxKind.VariableDeclaration, SyntaxKind.ForEachStatement, SyntaxKind.Argument) [](start = 82, length = 105) I think we should also handle ```forEachStatement``` here. #Closed
+Why create a new exception instead of just using the existing one?
+>InlineData [](start = 20, length = 10) Consider adding: `[InlineData("AString", "x12x456789x11", "$(AString.IndexOf('x', 1, 4))", "3")]`
+I don't think we need to pass `lambda.Span` here.
+id is the content identifier. If <see cref="importResolver"/> is null, id should be a full path string.
+Shouldn't this be ProductVersion?
+outputKind should be OutputKind.DynamicallyLinkedLibrary
+```suggestionDrainable = 1 << 2, ```
+>CompletionListCache [](start = 31, length = 17) `CompletionList` #Resolved
+I think you can just call this.AttachedPeer.MessageReceived.Register(this.OnMessageReceivedAsync);
+>ContainsUsingDeclarationStatement [](start = 31, length = 31) Is this method used? #Closed
+Shouldn't this be `&& DiscoverHelpers.TestRuntimeApplies(runtimes)`?
+`_cache` should be non-null
+Can you add a WorkItem for the linked issue?
+Move this below the check for _filters.Length == 0?
+minor: `Introduced` -> `Introduced`
+>IEnumerable<SyntaxNode?>? oldRootChildren, IEnumerable<SyntaxNode?>? newRootChildren, [](start = 16, length = 74) Should this be `IEnumerable<SyntaxNode?>`? #Closed
+why not just `this.Wallet.LastBlockHeight` ?
+@v-Ajnava what if `subscription` is null?
+```suggestion * GetMaxByteCount returns smaller size than the actual size ```
+Need to add `DefaultParameterSetName = InstancePoolUsageDefaultParameterSet`
+Why not just inherit from NullableParentInfo?
+Shouldn't this be `IsRequired = true`?
+Why the change from `var x` to `var y` here?
+Shouldn't this be `entry.Value?.ToInt32()`?
+>TurnOffTelemetry [](start = 21, length = 14) TurnOffTelemetry
+```suggestion [BackgroundTask(Schedule = "0 12 * * * 1", Description = "Performs cleanup operations for ms-cache and is-cache folders At 12:00 on Monday.")] ```
+Should this be `EnsureCleanDirectories(Parameters.BuildDirs);`?
+```suggestion throw new InvalidCastException("Id must be either an integer or a Guid"); ```
+We should only do this if `this.options.CreationTimeout == null`
+```suggestion if (localPath.StartsWith(";")) ```
+>new TestParameters(retainNonFixableDiagnostics: true, parseOptions: new CSharpParseOptions(LanguageVersion.CSharp8))); [](start = 12, length = 105) This seems to be a regression.
+Why are you casting to var again?
+count = 0 ?
+>if (conversion is { Kind: ConversionKind.ImplicitUserDefined }) [](start = 16, length = 74) Is there a test for this case? #Closed
+I don't think we need to expose this to the user, we can just remove it from the configuration
+Shouldn't this be in the `CharacterWindow` constructor?
+Why was this removed?
+Nit: ```suggestion _token = state._token; ```
+Interop.Libraries.Debug should be in the Interop.Libraries namespace.
+```suggestion [ConditionalFact(nameof(PlatformDetection)+"."+nameof(PlatformDetection.IsNotWindowsNanoServer))] ```
+```suggestion expression.Parent.IsKind(SyntaxKind.LogicalAndExpression) ```
+Wouldn't it be better to use `var` here instead of `var`?
+```suggestion return CopyToAsyncCore(destination, (destination, memory, cancellationToken) => destination.WriteAsync(memory, cancellationToken), cancellationToken); ```
+```suggestion return Rfc2898DeriveBytes.Pbkdf2(Encoding.UTF8.GetBytes(password), salt, iterationCount, algorithmName, numBytesRequested); ```
+```suggestion var name = path.Split('/').Last(); ```
+typo: `Index` -> `Index`
+Can you use the `IShapePlacementViewModel` instead of `IShapeType`?
+Why did you change this?
+```suggestion /// <summary> /// Allows all players to open airlocks, despite not having access. External airlocks, so airlocks that are not included. /// </summary> ```
+>((PEModuleSymbol)this.ContainingModule).Module.HasNullableAttribute(_handle, out byte transformFlag, out _) && transformFlag == NullableAnnotationExtensions.NotAnnotatedAttributeValue; [](start = 16, length = 105) Consider using `.HasNullableAttribute()` instead. #Closed
+`context.Node.Parent is AssignmentExpressionSyntax assignment && IsCoalesceAssignmentSupported(context)`
+Shouldn't this be 4.5.0.0?
+```suggestion public class AxisDefintionDto ```
+```suggestion component.Owner.GetUIOrNull(GasFilterUiKey.Key)?.Open(actor.PlayerSession); ```
+`disposable.Dispose();` is redundant
+`boundLambda = boundLambda.WithSuppressed(unboundLambda.IsSuppressed ? boundLambda.WithSuppressed() : boundLambda);` #Resolved
+> /// <param name="codeChallenge">The <see cref="OAuthClient"/> to sign in.</param> [](start = 4, length = 45) This is a public API and should not be changed. #Resolved
+```suggestion throw new InvalidOperationException("Unable to refresh certificate with executable.", e); ```
+`string.Equals(filePath, "null", StringComparison.OrdinalIgnoreCase)`
+Shouldn't this be `[^a-zA-Z]+`?
+Do we need to guard against this being called more than once?
+>_currentStatement = operation.DeclarationGroup; [](start = 12, length = 38) Should we assert that it is not null? #Closed
+```suggestion /// <since_tizen> 3 </since_tizen> ```
+```suggestion public CGRect LineFragmentUsedRectForGlyphAtIndex (nuint glyphIndex, ref NSRange effectiveGlyphRange) ```
+>test.Type.IsErrorType() [](start = 16, length = 22) Same here. #Closed
+I'm not familiar with this part of the code, but I'm not familiar with this part of the code. Can you explain why?
+@RandalliLama please change this to 0.1.0
+```suggestion public void TextPresenter_Can_contain_null_with_password_char_set() ```
+`this.Wallet` is redundant
+I think `elementVisitor` should be called after `VisitArray`
+Why is this changed?
+```suggestion if (sessionActions?.GetValueOrDefault(AnalyzerActions.Empty).IsEmpty) ```
+Why was this removed?
